@@ -1,0 +1,47 @@
+zona,puesto,responsable,dirección,cp,ciudad,provincia,telefono,email
+PAMPEANA,Director Regional,Jorge Ariel Schuster,Calle 9 de Julio 860,7000, Tandil,Buenos Aires,(0249)442-3955/3329,jschuster@trabajo.gob.ar
+SAN NICOLAS,Delegado Regional,Alberto Julián Teisseire,De la Nación 433,2900, San Nicolás,Buenos Aires,(0336) 4423171/3161,drsannicolas@trabajo.gob.ar
+MAR DEL PLATA,Delegado Regional,Angel Ratto (Int. 31),Santiago del Estero 1656,7600, Mar del Plata,Buenos Aires,(0223) 4918398 / 4920140,drmardel@trabajo.gob.ar
+BAHIA BLANCA,Delegado Regional,Gerardo Benjamín Rotstein,Alsina 19 piso 3º,8000, Bahía Blanca,Buenos Aires,(0291) 4521219 / 4550350 / 4512005,drbahiablanca@trabajo.gob.ar
+JUNIN,Delegado Regional,Constanza Favorito,Bartolomé Mitre 225,6000, Junín,Buenos Aires,(0236)4423167,drjunin@trabajo.gob.ar
+TANDIL,Delegado Regional,Liliana Lidia Ferreyra,Calle 9 de Julio 860,7000, Tandil,Buenos Aires,(0249) 4423329 / (0249) 4423955,drtandil@trabajo.gob.ar
+SANTA ROSA,Delegado Regional,Edgardo Senen González,Avenida San Martín Oeste 602,6300, Santa Rosa,La Pampa,(02954) 433048 / 434519,drlapampa@trabajo.gob.ar
+ZARATE - CAMPANA,Delegado Regional,Claudia Victoria Rodriguez,Lavalle 124/128,2800, Zárate,Buenos Aires,(03487) 449744 / 447542/433,
+CONURBANO,Director Regional,Carlos Barbalarga,Comisionado Indart 2676,1754, San Justo,Buenos Aires,4484-1311 int. 101 secretaria 103 Adm. y Rend de cuentas,
+LA MATANZA,Delegado Regional,Analía Alejandra Apollonio,Comisionado Indart 2676,1754, San Justo,Buenos Aires,(011) 4484-0661 / 1166 / 1311,drmoron@trabajo.gob.ar
+SAN MARTIN,Delegado Regional,Diego Alexis Passo,Agustín R. Vidal (ex Ramón Falcón) 3740,1650, San Martín,Buenos Aires,(011) 4755-1621/6636 / 4753 / 9924 / 4724-0851,drsanartin@trabajo.gob.ar
+LOMAS DE ZAMORA,Delegado Regional,Gustavo Pedernera,Av. Meeks 1393,1834, Temperley,Buenos Aires,(011) 4244-2461 / (011) 4244-9214/0640,drlomasdezamora@trabajo.gob.ar
+LA PLATA,Delegado Regional,Martha Durán de Savarino,Calle 51 Nº 476 y ½ (ex 484) PB of. 2 e/calles 4 y 5,1900, La Plata,Buenos Aires,(0221) 821861 / 4836519,dlaplata@trabajo.gob.ar
+AUSTRAL,Director Regional,Jorge Stopiello,Av Roca y Tucumán,8332, Gral. Roca,Río Negro,(02941) 423105 / 423511,
+GRAL. ROCA,Delegado Regional,Juan Oscar González,Av. Roca y Tucumán,8332, Gral. Roca,Río Negro,(0298) 423105/51,drrionegro@trabajo.gob.ar
+RIO GALLEGOS,Delegado Regional,Daniel Murdoch,Urquiza 45,9400, Río Gallegos,Santa Cruz,(02966) 422210 / 420082,drriogallegos@trabajo.gob.ar
+CALETA OLIVIA,Delegado Regional,Roque Vitale,Eva Perón 400,9011, Caleta Olivia,Santa Cruz,(0297) 4851251,drcaletaoliva@trabajo.gob.ar
+TRELEW,Delegado Regional,Alejandro Torres,Italia 60,9100, Trelew,Chubut,(0280) 426425 / (0280) 425762,drtrelew@trabajo.gob.ar
+COMODORO RIVADAVIA,Delegado Regional,Máximo Neumann,Saenz Peña 796 2º piso,9000, Comodoro Rivadavia,Chubut,(0297) 4472338 / (0297) 4471198,drcomodoro@trabajo.gob.ar
+RIO GRANDE,Delegado Regional,Luis Gómez,9 de Julio 768 1º piso,9420, Río Grande,Tierra del Fuego,(0296) 4430044 / 44202964,drtierradelfuego@trabajo.gob.ar
+NEUQUEN,Delegado Regional,Juan Marcelo Zuñiga,Sargento Cabral 60,8300, Neuquén,Neuquén,(0299) 4470902/4435985 / (0299) 4436494,drneuquen@trabajo.gob.ar
+VIEDMA,Delegado Regional,Juan Manuel Vega,25 de Mayo 724/26 planta baja y alta,8500, Viedma,Río Negro,(02920) 422188/229,drviedma@trabajo.gob.ar
+BARILOCHE,Delegado Regional,Silvana Camelli,Mitre Nº 630 PB,8400, San Carlos de Bariloche,Río Negro,(0294) 4432399/154/082,drbariloche@trabajo.gob.ar
+CUYO,Director Regional,Miguel Cerutti,Eusebio Blanco 450 piso 2º,5500, Mendoza,Mendoza,(0261) 4203420 / 4258571 Int. 601-603 / (0261) 4203420 int 602-7109,
+MENDOZA:,Delegado Regional,Ricardo Diego Pettignano,Eusebio Blanco 450 piso 2º,5500, Mendoza,Mendoza,(0261) 4258249 int 612-611 / 291450/1946/1835/42,dmendoza@trabajo.gob.ar
+SAN LUIS,Delegado Regional,Patricia Beatriz Picca,Colón 580,5700, San Luis,San Luis,(0266) 4421236 / 4437636,drsanluis@trabajo.gob.ar
+SAN JUAN,Delegado Regional,Hugo Ariel Trigo,Santa Fe Este 454,5400, San Juan,San Juan,(0264) 4223853 / 4222189 / 4221197,drsanjuan@trabajo.gob.ar
+LA RIOJA,Delegado Regional,Edgardo Céliz Mercado,25 de Mayo 74 piso 1º,5300, La Rioja,La Rioja,(0380) 460322/14 / (0380) 460323,drlarioja@trabajo.gob.ar
+SAN RAFAEL,Delegado Regional,Gerardo Garrote,Mitre 277,5600, San Rafael,Mendoza,(0260) 4429211 / 4437106/ 4437130 / 4422572,drsanrafael@trabajo.gob.ar
+CENTRO,Director Regional,Roberto Deb,Rioja 1120 piso 4º,2000, Rosario,Santa Fe,(0341) 4402172 / (0341) 4402176/49,
+SANTA FE,Delegado Regional,Oscar A. Bianchini,San Martín 2533 piso 1º,3000, Santa Fe,Santa Fe,(0342) 4528046 / (0342) 4537929,drsantafe@trabajo.gob.ar
+ROSARIO,Delegado Regional,Rubén Ferreyra,Rioja 1120 piso 4º,2000, Rosario,Santa Fe,(0341) 4402172 / (0341) 4402176/49,drrosario@trabajo.gob.ar
+CORDOBA,Delegado Regional,Agustín Heredia,27 de Abril 351,5000, Córdoba,Córdoba,(0351) 4237566 / (0351) 4220049,drcordoba@trabajo.gob.ar
+PARANA,Delegado Regional,Diego Sebastián Carnaval,España 321 piso 1º,3100, Paraná,Entre Ríos,(0343) 4422704/4221703 / (0343) 4218794,drparana@trabajo.gob.ar
+CONCORDIA,Delegado Regional,Guillermo Satalía Mendez,Hipólito Yrigoyen 487 piso 2º,3200, Concordia,Entre Ríos,(0345) 4217047/3071,drconcordia@trabajo.gob.ar
+NEA,Director Regional,Marcelo Servello,Santa Fe 867,3400, Corrientes,Corrientes,(0379) 468548,
+RESISTENCIA,Delegado Regional,Alcides Godano,Arturo Illia 564,H3500AVL, Resistencia,Chaco,(062) 442-5160/6499 / (0362) 426499,drchaco@trabajo.gob.ar
+CORRIENTES,Delegado Regional,Justo José Zapponi,Santa Fe 867,3400, Corrientes,Corrientes,(0379) 4422032 / (0379) 4422009,drcorrientes@trabajo.gob.ar
+POSADAS,Delegado Regional,Alicia Cabral,3 de Febrero 1940 piso 1º,3300, Posadas,Misiones,(0376) 4425093 / 4434195/7675,drmisiones@trabajo.gob.ar
+FORMOSA,Delegado Regional,Silvia Carolina Blazek,Av. 9 de Julio 608,3600, Formosa,Formosa,(03704) 424585 / 430359,drformosa@trabajo.gob.ar
+NOA,Director Regional,José Hugo Ceriani,Gral Güemes 431/5,4400, Salta,Salta,(0387) 4311640 / 4314327 / 7113,
+JUJUY,Delegado Regional,Carlos Guarini,Otero 82,4600, San Salvador de Jujuy,Jujuy,(0388) 4237808 / (0388)4237903,drjujuy@trabajo.gob.ar
+SALTA,Delegado Regional,Javier Cáceres Moreno,Gral. Güemes 431/5,4400, Salta,Salta,(0387) 4313428/771 / 4314327,drsalta@trabajo.gob.ar
+TUCUMAN,Delegado Regional,María José Rubiol,San Martín 1012,4000, San Miguel de Tucumán,Tucumán,(0381) 4221835 (0381) 4229603,drtucuman@trabajo.gob.ar
+SANTIAGO DEL ESTERO,Delegado Regional,Alejandro Ducca Kozameh,Independencia 56 piso 4º,4200, Santiago del Estero,Santiago del Estero,(0385) 4211252 / 4222736,dsantiagodelestero@trabajo.gob.ar
+CATAMARCA,Delegado Regional,Sebastián Eduardo Fernandez,Salta 499,4700, San Fernando del Valle de Catamarca,Catamarca,(0383) 4458946 / 458952,dcatamarca@trabajo.gob.ar
