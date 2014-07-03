@@ -1,0 +1,575 @@
+provincia_id,provincia,municipio,sede,tipo,direccion,telefono,email,lat,lon
+1, Buenos Aires,ALMIRANTE BROWN ,,Oficina de empleo,"TOLL 1560, PB(1846)",0237-4840123,oealmirantebrown@trabajo.gob.ar,,
+1, Buenos Aires,ARRECIFES ,,Oficina de empleo,"RICARDO GUTIERREZ 730, PB(2740)",4450-6002,oearrecifes@trabajo.gob.ar,-34.0638771,-60.10348889999999
+1, Buenos Aires,AVELLANEDA ,,Oficina de empleo,"AV. HIPOLITO YRIGOYEN 381, PB(1870)",4661-8434 / 8418,oeavellaneda@trabajo.gob.ar,,
+1, Buenos Aires,AYACUCHO ,,Oficina de empleo,"HIPOLITO IRIGOYEN 882, PB(7150)",4482-0279,oeayacucho@trabajo.gob.ar,-37.1502686,-58.4829712
+1, Buenos Aires,AZUL ,,Oficina de empleo,"SAN MARTIN 612 , PB(7300)",02323-438615,oeazul@trabajo.gob.ar,,
+1, Buenos Aires,BAHIA BLANCA ,,Oficina de empleo,"ALSINA 63, PB(8000)",0220 - 477 - 5709,oebahiablanca@trabajo.gob.ar,,
+1, Buenos Aires,BALCARCE ,,Oficina de empleo,"CALLE 23 Nro636, PB(7620)",0237-4634927/5037,oebalcarce@trabajo.gob.ar,,
+1, Buenos Aires,BARADERO ,,Oficina de empleo,"ARAOZ 995, 1ro (2942)",4489-7777 Interno: 7724,oebaradero@trabajo.gob.ar,-33.808876,-59.5046844
+1, Buenos Aires,BENITO JUAREZ ,,Unidad de empleo,"OTAMENDI 21, PB(7020)",0291-4594000 INT. 2258,pendiente,,
+1, Buenos Aires,BERAZATEGUI ,,Oficina de empleo,"AVENIDA MILAZZO 3251, PB(1884)",0221-4645010,oeberazategui@trabajo.gob.ar,,
+1, Buenos Aires,BERISSO ,,Oficina de empleo,"MONTEVIDEO Y NUEVA YORK EDIFICIO POLIGONO INDUSTRIAL, 2do (1923)",02314 - 427203/04 int. 252,oeberisso@trabajo.gob.ar,-34.8730675,-57.88371729999999
+1, Buenos Aires,BOLIVAR ,,Oficina de empleo,"ARENALES 58 , PB(6550)",02342-423147,oebolivar@trabajo.gob.ar,-36.2283936,-61.1076431
+1, Buenos Aires,BRAGADO ,,Oficina de empleo,"ALSINA 172, PB(6640)",02226-423-734,oebragado@trabajo.gob.ar,,
+1, Buenos Aires,CAMPANA ,,Oficina de empleo,"25 DE MAYO 957, PB(2804)",02395-451101,oecampana@trabajo.gob.ar,,
+1, Buenos Aires,CAÑUELAS ,,Oficina de empleo,"SAN MARTIN 435, PB(1814)","02245-480101 int, 217",oecanuelas@trabajo.gob.ar,,
+1, Buenos Aires,CARLOS CASARES ,,Oficina de empleo,"MAIPU 276, PB(6530)",02352-430338,oecarloscasares@trabajo.gob.ar,-35.6230278,-61.36036679999999
+1, Buenos Aires,CASTELLI ,,Oficina de empleo,"AV 25 DE MAYO 205, PB(7114)",02241- 436365,oecastelli@trabajo.gob.ar,-36.0883217,-57.8062134
+1, Buenos Aires,CHACABUCO ,,Oficina de empleo,"PRIMERA JUNTA Y OLAVARRIA, PB(6740)",02346-421256,oechacabuco@trabajo.gob.ar,,
+1, Buenos Aires,CHASCOMUS ,,Oficina de empleo,"LIBRES DEL SUR 272 E/BOLIVAR Y MAZZINI, PB(7130)",02922-462396,oechascomus@trabajo.gob.ar,,
+1, Buenos Aires,CHIVILCOY ,,Oficina de empleo,"SALTA 110, PB(6620)",02316-453636,oechivilcoy@trabajo.gob.ar,,
+1, Buenos Aires,CORONEL PRINGLES ,,Oficina de empleo,"AV. 25 DE MAYO 1650, PB(7530)",0220-4602438,oepringles@trabajo.gob.ar,-37.9852466,-61.34980739999999
+1, Buenos Aires,CORONEL SUAREZ ,,Oficina de empleo,"ALSINA 132, PB(7540)",02243-454134,oecnelsuarez@trabajo.gob.ar,-37.4559517,-61.93072509999999
+1, Buenos Aires,DAIREAUX ,,Oficina de empleo,"CARLOS PELLEGRINI 159, PB(6555)",02923-15465059,oedaireaux@trabajo.gob.ar,,
+1, Buenos Aires,DE LA COSTA ,,Oficina de empleo,"AV. COSTANERA 8001, PB(7108)",02314-451096,oedelacosta@trabajo.gob.ar,,
+1, Buenos Aires,ENSENADA ,,Oficina de empleo,"MARQUES DE AVILES 620, PB(1925)",0221-425-6161 / (0221) 425-1917,oeensenada@trabajo.gob.ar,,
+1, Buenos Aires,ESCOBAR ,,Oficina de empleo,"ABSORNO Y ESTRADA, 1ro (1625)",0221-4831016,oeescobar@trabajo.gob.ar,-34.3402525,-58.7849434
+1, Buenos Aires,ESTEBAN ECHEVERRIA ,,Oficina de empleo,"SOFIA T DE SANTA MARINA 455, 4to(1842)",02242-432135,oeecheverria@trabajo.gob.ar,-34.8729862,-58.4749156
+1, Buenos Aires,EXALTACION DE LA CRUZ ,,Oficina de empleo,"MORENO 452, PB(2812)",02355-422001 internos 220 - 404,oeexaltaciondlcruz@trabajo.gob.ar,,
+1, Buenos Aires,EZEIZA ,,Oficina de empleo,"CANALE 124 - TRISTAN SUAREZ, PB(1806)",02227-431450/56,oeezeiza@trabajo.gob.ar,,
+1, Buenos Aires,FLORENCIO VARELA ,,Oficina de empleo,"AVDA. CALCHAQUI Y SARGENTO CABRAL 6200, 1ro (1888)",02324-421370,oevarela@trabajo.gob.ar,-34.7965806,-58.27601199999999
+1, Buenos Aires,FLORENTINO AMEGHINO ,,Oficina de empleo,"9 DE JULIO 668, 1ro (6064)",02271 406600 interno 123,oeameghino@trabajo.gob.ar,-34.816667,-62.45
+1, Buenos Aires,GENERAL ALVARADO ,,Oficina de empleo,"CALLE 28 1135, PB(7607)",02921-483063,oealvarado@trabajo.gob.ar,,
+1, Buenos Aires,GENERAL ALVEAR ,,Unidad de empleo,"SARMIENTO E/ ROQUE PEREZ E ISLEÑO, PB(7263)",02227-15462781,uegeneralalvear@trabajo.gob.ar,-36.0148964,-60.0086441
+1, Buenos Aires,GENERAL LAS HERAS ,,Oficina de empleo,"RIVADAVIA 220 PB (1741), PB(1741)",02923-499013/498079,pendiente,-34.8867264,-58.98410800000001
+1, Buenos Aires,GENERAL MANUEL BELGRANO ,,Oficina de empleo,"SAN MARTIN Y RIVADAVIA, PB(7223)",02221-480553,oebelgrano@trabajo.gob.ar,18.08255,-63.05225100000001
+1, Buenos Aires,GENERAL PUEYRREDON ,,Oficina de empleo,"25 DE MAYO 3949, PB(7600)",02344-453304 / 450520,oemardelplata@trabajo.gob.ar,,
+1, Buenos Aires,GENERAL RODRIGUEZ ,,Oficina de empleo,"INT. GARRAHAM 266, PB(1748)",02324-481-359,oegralrodriguez@trabajo.gob.ar,,
+1, Buenos Aires,GENERAL SAN MARTIN ,,Oficina de empleo,"RAMON CARRILLO 2163, 1ro (1650)",0291-4941534,oesanmartin@trabajo.gob.ar,-34.575617,-58.5400988
+1, Buenos Aires,GUAMINI ,,Oficina de empleo,"J.M DE ROSAS S/ (ESTAC TERM DE OMNIBUS), PB(6435)",02392-419395 int 19,oeguamini@trabajo.gob.ar,-37.0125427,-62.41649630000001
+1, Buenos Aires,HIPOLITO YRIGOYEN ,,Oficina de empleo,"ITALIA 748, PB(6465)",02394-430293/295 Int.:112,pendiente,-36.2276799,-61.6538052
+1, Buenos Aires,HURLINGHAM ,,Oficina de empleo,"TEODORO FELS 190 , PB(1688)",02927-432201 INT 146,oehurlingham@trabajo.gob.ar,,
+1, Buenos Aires,ITUZAINGO ,,Oficina de empleo,"BRANDSEN 1142, PB(1714)",4214-4227,oeituzaingo@trabajo.gob.ar,,
+1, Buenos Aires,JOSE C. PAZ ,,Oficina de empleo,"ROQUE SAENZ PEÑA 5111, PB(1665)",5227-7711 / 7732,oejosecpaz@trabajo.gob.ar,,
+1, Buenos Aires,JUNIN ,,Oficina de empleo,"ARIAS 69, 3ro B(6000)",4246-4952,oejunin@trabajo.gob.ar,-34.5885499,-60.94955400000001
+1, Buenos Aires,LA MATANZA - SAN JUSTO ,,Oficina de empleo,"AV. J. M. DE ROSAS 5091, SAN JUSTO, PB(1754)",4290-8414,oelamatanzasj@trabajo.gob.ar,-34.6874084,-58.5632629
+1, Buenos Aires,LA PLATA ,,Oficina de empleo,"CALLE 50 381, PB(1900)",4234-9180,oelaplata@trabajo.gob.ar,,
+1, Buenos Aires,LANUS ,,Oficina de empleo,"AV. H. YRIGOYEN 3863, PB(1824)",4357-2446 / 4357-2445,oelanus@trabajo.gob.ar,,
+1, Buenos Aires,LAPRIDA ,,Unidad de empleo,"AV. SAN MARTIN 1160, PB(7414)",4243-2233,uelaprida@trabajo.gob.ar,-37.5454292,-60.7987099
+1, Buenos Aires,LAS FLORES ,,Oficina de empleo,"H. IRIGOYEN 421, PB(7200)",02224-476169,oelasflores@trabajo.gob.ar,,
+1, Buenos Aires,LEZAMA ,,Unidad de empleo,"HIPOLITO YRIGOYEN Nro 251, PB(7116)",4212-7967,uelezama@trabajo.gob.ar,-35.880939,-57.89860199999999
+1, Buenos Aires,LINCOLN ,,Oficina de empleo,"AV. MASSEY Y 25 DE MAYO, PB(6070)",4212-7958,oelincoln@trabajo.gob.ar,-34.8684492,-61.52909059999999
+1, Buenos Aires,LOBERIA ,,Oficina de empleo,"FRANCISCO DE CASO 180, PB(7635)",02266-421269 / 424007,oeloberia@trabajo.gob.ar,-38.1640892,-58.7817154
+1, Buenos Aires,LOBOS ,,Oficina de empleo,"SALGADO 40, PB(7240)",02246-433043,oelobos@trabajo.gob.ar,,
+1, Buenos Aires,LOMAS DE ZAMORA ,,Oficina de empleo,"LEANDRO N. ALEM 207, 2do (1832)",02291- 421482,oelomasdezamora@trabajo.gob.ar,-34.76118230000001,-58.4302476
+1, Buenos Aires,LUJAN ,,Oficina de empleo,"BELGRANO 1250, PB(6700)",0223-4743360,oelujan@trabajo.gob.ar,,
+1, Buenos Aires,MALVINAS ARGENTINAS ,,Oficina de empleo,"AVENIDA PRESIDENTE PERON 4276, PB(1613)",0223-4642174,oemalvinas@trabajo.gob.ar,,
+1, Buenos Aires,MAR CHIQUITA ,,Oficina de empleo,"ACAPULCO 10, PB(7174)",02261-440138,oemarchiquita@trabajo.gob.ar,,
+1, Buenos Aires,MARCOS PAZ ,,Oficina de empleo,"SAN MARTIN 310, ESQ. BALCARCE, PB(1727)",0223-4693823,oemarcospaz@trabajo.gob.ar,,
+1, Buenos Aires,MERCEDES ,,Oficina de empleo,"CALLE 29 623, PB(6600)",02262 - 435420,oemercedes@trabajo.gob.ar,,
+1, Buenos Aires,MONTE ,,Oficina de empleo,"LAURA GIAGNACOVO 636, PB(7220)",02254-491624,oemonte@trabajo.gob.ar,-35.4212385,-58.8289611
+1, Buenos Aires,MONTE HERMOSO ,,Unidad de empleo,"AV. ARGENTINA 88 LOCAL 36 SUBSUELO, PB(8153)",02983-439200,uemontehermoso@trabajo.gob.ar,-38.9166669,-61.55
+1, Buenos Aires,MORENO ,,Oficina de empleo,"BARTOLOME MITRE 1891, PB(1744)",02255-460965�,oemoreno@trabajo.gob.ar,,
+1, Buenos Aires,MORON ,,Oficina de empleo,"SAN MARTIN 471, PB(1708)",03489- 438310 / 428386,oemoron@trabajo.gob.ar,,
+1, Buenos Aires,NAVARRO ,,Oficina de empleo,"MITRE 346, PB(6605)",0348-4430506,pendiente,,
+1, Buenos Aires,NECOCHEA ,,Oficina de empleo,"CALLE 64 2975, LOCAL 9 GALERIA ZULBERTI(3630)",02323 - 491702 / 581025 int 16,oenecochea@trabajo.gob.ar,-38.5544968,-58.73960879999999
+1, Buenos Aires,OLAVARRIA ,,Oficina de empleo,"SARMIENTO 2458, PB(7400)",4830-0582/4512-6251,oeolavarria@trabajo.gob.ar,,
+1, Buenos Aires,PERGAMINO ,,Oficina de empleo,"BV. ALSINA 515, PB(2700)",02320-422851,oepergamino@trabajo.gob.ar,,
+1, Buenos Aires,PILAR ,,Oficina de empleo,"11 DE SEPTIEMBRE 645, PB(1629)",4660-9000 INT 1466/1467/1468/1469,oepilar@trabajo.gob.ar,,
+1, Buenos Aires,PINAMAR ,,Oficina de empleo,"SHAW Y PEJERREY, PB(7167)",0230-4669219,oepinamar@trabajo.gob.ar,-37.1026802,-56.8653641
+1, Buenos Aires,PRESIDENTE PERON ,,Oficina de empleo,"CRISOLOGO LARRALDE 241 Guernica, PB(1862)",4580-5734/5,pendiente,-34.9169988,-58.3871924
+1, Buenos Aires,PUAN ,,Oficina de empleo,"HIPOLITO YRIGOYEN S/N - V DE ORTUSAR, PB(8180)",4512-3178,oepuan@trabajo.gob.ar,-37.5447273,-62.7670898
+1, Buenos Aires,PUNTA INDIO ,,Unidad de empleo,"CALLE 30, PB, E/ 25 Y 27 S/N (CAMARA DE COMERCIO)(1917)",4664-7403,uepuntaindio@trabajo.gob.ar,-35.2743492,-57.26073839999999
+1, Buenos Aires,QUILMES ,,Oficina de empleo,"LEANDRO N. ALEM 207, 2do (1879)",47496141 / 9028,oequilmes@trabajo.gob.ar,-34.7260246,-58.25435640000001
+1, Buenos Aires,RAMALLO ,,Oficina de empleo,"ESPAÑA 1392, PB(2915)",4513-9832 / 9833,oeramallo@trabajo.gob.ar,,
+1, Buenos Aires,RAUCH ,,Unidad de empleo,"ARISTOBULO DEL VALLE 40, PB(7203)",03487-435072,uerauch@trabajo.gob.ar,-36.7749176,-59.0897865
+1, Buenos Aires,RIVADAVIA ,,Oficina de empleo,"MARCOS CACHAU Y SAN MARTIN, PB(6237)",02478 454822 int 125,oerivadavia@trabajo.gob.ar,-35.4889908,-62.973774
+1, Buenos Aires,ROJAS ,,Oficina de empleo,"PUEBLOS ORIGINARIOS 473, PB(2705)",03329-482900 INT 269 / 03329-15602923,pendiente,-34.2004395,-60.7324219
+1, Buenos Aires,SALADILLO ,,Oficina de empleo,"ALEM 3150 CASA DE CAMPO , PB(7260)",03388-471001 INT 116 / 123,oesaladillo@trabajo.gob.ar,-35.6365738,-59.77861790000001
+1, Buenos Aires,SAN ANDRES DE GILES ,,Oficina de empleo,"25 DE MAYO Y SUERO, PB(6720)",02364-631618,oesanadegiles@trabajo.gob.ar,-34.4464188,-59.4430733
+1, Buenos Aires,SAN ANTONIO DE ARECO ,,Oficina de empleo,"LAVALLE 363, PB(2760)",02477-408252,pendiente,,
+1, Buenos Aires,SAN FERNANDO ,,Oficina de empleo,"CARLOS CASARES 2032, PB(1646)",0340-7422282,oesanfernando@trabajo.gob.ar,,
+1, Buenos Aires,SAN ISIDRO ,,Oficina de empleo,"DON BOSCO 411, 1ro (1642)",02337 - 405169,oesanisidro@trabajo.gob.ar,-34.470829,-58.5286102
+1, Buenos Aires,SAN MIGUEL ,,Oficina de empleo,"CONCEJAL TRIBULATO 643, PB(1663)",02475-462002/462007/462015,oesanmiguel@trabajo.gob.ar,,
+1, Buenos Aires,SAN NICOLAS ,,Oficina de empleo,"MORTEO ENTRE GARIBALDI Y PELLEGRINI, PB(2900)",02325-444015,oesannicolas@trabajo.gob.ar,,
+1, Buenos Aires,SAN PEDRO ,,Oficina de empleo,"AYACUCHO 299- PB. CENTRO CIVICO., PB(2930)",02326-455446,oesanpedro@trabajo.gob.ar,-33.682003,-59.66516489999999
+1, Buenos Aires,SAN VICENTE ,,Oficina de empleo,"25 DE MAYO 125, PB(1865)",0336-4425611,oesanvicenteba@trabajo.gob.ar,,
+1, Buenos Aires,SUIPACHA ,,Unidad de empleo,"SAN MARTIN 325, PB(6612)",03329-439850,uesuipacha@trabajo.gob.ar,,
+1, Buenos Aires,TANDIL ,,Oficina de empleo,"GENERAL PAZ 1259, PB(7000)",02983484444 INT 232 Y 245,oetandil@trabajo.gob.ar,,
+1, Buenos Aires,TAPALQUE ,,Unidad de empleo,"SAN MARTIN 179, PB(7303)",02296-451622,uetapalque@trabajo.gob.ar,,
+1, Buenos Aires,TIGRE ,,Oficina de empleo,"ALMIRANTE BROWN 647, PB(1648)",02281-43-4569,oetigre@trabajo.gob.ar,,
+1, Buenos Aires,TORNQUIST ,,Unidad de empleo,"MORENO 1, PB(8160)",02292-451400 int 140,uetornquist@trabajo.gob.ar,-38.0987358,-62.2236252
+1, Buenos Aires,TRENQUE LAUQUEN ,,Oficina de empleo,"ORO Y VILLEGAS, PB(6400)",02926-429227/228/306,oetlauquen@trabajo.gob.ar,,
+1, Buenos Aires,TRES ARROYOS ,,Oficina de empleo,"RIVADAVIA 1, PB(7500)",02344 - 480117,oetresarroyos@trabajo.gob.ar,,
+1, Buenos Aires,TRES DE FEBRERO ,,Oficina de empleo,"ALBERDI 4840, 3ro (1678)",02285-420087,oetresdefebrero@trabajo.gob.ar,,
+1, Buenos Aires,TRES LOMAS ,,Oficina de empleo,"RIVADAVIA 149, PB(6409)",02244-444761,oetreslomas@trabajo.gob.ar,,
+1, Buenos Aires,VICENTE LOPEZ ,,Oficina de empleo,"AV. MAIPU 2305, PB, (LOCAL 101 Y 102 ESTACION TREN DE LA COSTA)(1636)",02284-428333,oevicentelopez@trabajo.gob.ar,-34.5281205,-58.473816
+1, Buenos Aires,VILLA GESELL ,,Oficina de empleo,"PASEO 110 Y AV. 8, PB(7165)",02297-449045,oevillagesell@trabajo.gob.ar,-37.2633972,-56.9732704
+1, Buenos Aires,VILLARINO ,,Oficina de empleo,"MORENO 41, PB(8132)",0249 - 4441288,oevillarino@trabajo.gob.ar,,
+1, Buenos Aires,ZARATE ,,Oficina de empleo,"PASEO DE LA RIBERA 2800 (EX BALNEAREO MUNICIPAL), PB(2800)",02283-420117,oezarate@trabajo.gob.ar,-34.0988083,-59.0322914
+3, Catamarca,ANDALGALA ,,Oficina de empleo,"CALLE SAN MARTIN S/N, PB(4740)",03835-413191,oeandalgala@trabajo.gob.ar,-27.6004009,-66.3162308
+3, Catamarca,BELEN ,,Oficina de empleo,"CALLE. GRAL PAZ Nro 160, PB(4750)",03835-463641,oebelen@trabajo.gob.ar,-27.6498394,-67.0330811
+3, Catamarca,FIAMBALA ,,Oficina de empleo,"DIEGO DE ALMAGRO SIN NUMERO - MUNICIPALIDAD, PB(5345)",03837 496016,oefiambala@trabajo.gob.ar,-27.6891994,-67.62669369999999
+3, Catamarca,ICAÑO ,,Unidad de empleo,"LIBERTAD S/N, PB(5265)",03832 480080 / 480011,pendiente,-28.8999996,-65.3166809
+3, Catamarca,LOS ALTOS ,,Oficina de empleo,"MARIA AUXILIADORA Y MARTIN MIGUEL DE GUEMES, PB(4723)",0383-154-516297 0383-154-516297,oelosaltos@trabajo.gob.ar,-28.0452442,-65.4998779
+3, Catamarca,POMAN ,,Oficina de empleo,"SAN SEBASTIAN ESQ. 15 DE SEPTIEMBRE, LOCAL 06, PB(5315)",03835522813,oepoman@trabajo.gob.ar,-28.3996601,-66.2173462
+3, Catamarca,RECREO ,,Oficina de empleo,"SARMIENTO Y EVA PERON, PB(5260)",03832-15520060,oerecreo@trabajo.gob.ar,-29.2792282,-65.06365199999999
+3, Catamarca,SAN FERNANDO DEL VALLE DE CATARMARCA ,,Oficina de empleo,"AV. GÜEMES 650 , PB(4700)",0383-4459626,oesfvcatamarca@trabajo.gob.ar,,
+3, Catamarca,SAN JOSE ,,Oficina de empleo,"16 DE AGOSTO ESQUINA MARCOS ROMERO, PB(4139)",03838-423826,oesanjose@trabajo.gob.ar,-27.0763912,-66.9988011
+3, Catamarca,SANTA MARIA ,,Oficina de empleo,"SARMIENTO ESQUINA BELGRANO, PB(4139)",03838-421869,oesantamaria@trabajo.gob.ar,-26.6988792,-66.0485611
+3, Catamarca,SANTA ROSA ,,Oficina de empleo,"AV. 9 DE JULIO S/N, PB(4723)",03833-485045,oesantarosacat@trabajo.gob.ar,-27.0763912,-66.9988011
+3, Catamarca,SAUJIL ,,Oficina de empleo,"JUAN DOMINGO PERON Nro 788, PB(5321)",03835-492083,oesauj@trabajo.gob.ar,-28.1826801,-66.23384089999999
+3, Catamarca,TINOGASTA ,,Oficina de empleo,"ANTONIO DEL PINO 775, PB(5340)",03837-421001,oetinogasta@trabajo.gob.ar,-28.0673199,-67.565918
+3, Catamarca,VALLE VIEJO ,,Oficina de empleo,"AVDA. PRESIDENTEPARADOR MUNICIPAL, PB(4707)",0383- 4443377,oevalleviejo@trabajo.gob.ar,-28.5656021,-65.7134009
+4, Chaco,BARRANQUERAS ,,Oficina de empleo,"AV. LAPRIDA Nro 5.601, PB(3503)",03624 - 480973,oebarranqueras@trabajo.gob.ar,,
+4, Chaco,BASAIL ,,Unidad de empleo,"LUIS NICOLAS BASAIL S/N, PB(3516)",03624-490056,pendiente,-26.5857656,-60.9540073
+4, Chaco,CAMPO LARGO ,,Unidad de empleo,"GUEMES Y MAIPU , PB(3716)",03644-495454,campolargo@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,COLONIAS UNIDAS ,,Unidad de empleo,"AVENIDA SARMIENTO Y COMANDANTE FONTANA, PB(3515)",03725 - 15484138,uecoloniasunidas@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,CORONEL DU GRATY ,,Unidad de empleo,"MARIANO MORENO 332, PB(3541)",03735-498416,uedugraty@trabajo.gob.ar,,
+4, Chaco,CORZUELA ,,Oficina de empleo,"SALTA ESQ. PERON, PB(3718)",03731-413611,oecorzuela@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,FONTANA ,,Oficina de empleo,"AV. INTENDENTE AUGUSTO REY 531, PB(3514)",0362-4463700,oefontana@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,GENERAL PINEDO ,,Oficina de empleo,"CALLE 7 ENTRE 6 Y 8, PB(3732)",03731-508929 / 03731-480433,pendiente,-26.5857656,-60.9540073
+4, Chaco,GENERAL SAN MARTIN ,,Oficina de empleo,"MORENO 343 , PB(3509)",03725-15407410,oesmartinchaco@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,GENERAL VEDIA ,,Unidad de empleo,"AV. BOULEVARD DE LOS COLONOS S/N , PB(3522)",03624-498834,uegeneralvedia@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,ISLA DEL CERRITO ,,Unidad de empleo,"AV. DE LA HERMANDAD ARGENTINA PARAGUAYA 101, PB(3505)",03264-496281,ueislacerrito@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,JUAN JOSE CASTELLI ,,Oficina de empleo,"SARMIENTO 99, PB(3705)",0364-4471877,oejjcastelli@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,MACHAGAI ,,Oficina de empleo,"CARLOS VECCHIETTI 240, PB(3534)",03734-471099,oemachagai@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,PAMPA DEL INDIO ,,Oficina de empleo,"SAN MARTIN 360, PB(3531)",0362-4280270,oepampadelindio@trabajo.gob.ar,-26.0491772,-59.9423714
+4, Chaco,PAMPA DEL INFIERNO ,,Oficina de empleo,"RESISTENCIA 30, PB(3708)",03644-225235,oepdelinfierno@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,PRESIDENCIA DE LA PLAZA ,,Unidad de empleo,"SAN MARTIN 426, PB(3536)",0373-4426154,uedelaplaza@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,PUERTO TIROL ,,Unidad de empleo,"AV. 9 DE JULIO S/N, PB(3505)",0362 - 4492677,uepuertotirol@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,PUERTO VILELAS ,,Oficina de empleo,"MZ 19 PC 05 BARRIO SAN JOSE, PB(3503)",03624- 417509,oepuertovilelas@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,QUITILIPI ,,Oficina de empleo,"AV. CHACO 18, PB(3530)",0364-4311103,oequitilipi@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,RESISTENCIA ,,Oficina de empleo,"LAVALLE 750, PB(3500)",0362-4458212,oeresistencia@trabajo.gob.ar,,
+4, Chaco,SANTA SYLVINA ,,Unidad de empleo,"SARMIENTO 418, PB(3541)",03735 494372,pendiente,,
+4, Chaco,TRES ISLETAS ,,Oficina de empleo,"PRESIDENTE PERON 375 , PB(3703)",03644-230131,oetresisletas@trabajo.gob.ar,-26.5857656,-60.9540073
+4, Chaco,VILLA ANGELA ,,Oficina de empleo,"MAIPU Nro 150, PB(3540)",03735-429096,oevillaangela@trabajo.gob.ar,,
+4, Chaco,VILLA BERTHET ,,Unidad de empleo,"PRINGLES Y BELGRANO, PB(3545)",03735-497748,uevillaberthet@trabajo.gob.ar,-26.5857656,-60.9540073
+5, Chubut,CHOLILA ,,Unidad de empleo,"MANZANA 57 S/N, PB(9217)",0294-5498040,uecholila@trabajo.gob.ar,-42.51216600000001,-71.4476779
+5, Chubut,COMODORO RIVADAVIA ,,Oficina de empleo,"MAIPU 1420 , PB(9000)",0297 - 4064521,oecomodoro@trabajo.gob.ar,,
+5, Chubut,EL MAITEN ,,Unidad de empleo,"AV. SAN MARTIN 1300, PB(9210)",02945-495157 / 495150,ueelmaiten@trabajo.gob.ar,-42.0529213,-71.1749268
+5, Chubut,ESQUEL ,,Oficina de empleo,"SAN MARTIN 608, PB(9200)",02945 - 450593,oeesquel@trabajo.gob.ar,,
+5, Chubut,GAIMAN ,,Unidad de empleo,"MLAVINAS ARGENTINAS 93, PB(9105)",02804-491137,uegaiman@trabajo.gob.ar,,
+5, Chubut,PUERTO MADRYN ,,Oficina de empleo,"BELGRANO 85, PB(9120)",02804-458829,oepuertomadryn@trabajo.gob.ar,,
+5, Chubut,RAWSON ,,Oficina de empleo,"BELGRANO 844, PB(9103)",0280-483837,oerawson@trabajo.gob.ar,,
+5, Chubut,TRELEW ,,Oficina de empleo,"SAN MARTIN 536, PB(9100)",0280-4435890,oetrelew@trabajo.gob.ar,,
+5, Chubut,TREVELIN ,,Unidad de empleo,"SAN MARTIN 339, PB(9203)",02945 480145 / 129,uetrevelin@trabajo.gob.ar,-43.0792209,-71.4643127
+6, Ciudad De Buenos Aires,CIUDAD DE BUENOS AIRES MTEYSS ,,Oficina de empleo,"HUMBERTO 1ro 2252/2260 , PB(1001)",4941-6464,oecaba@trabajo.gob.ar,-34.6037232,-58.3815931
+7, Córdoba,ALEJANDRO ROCA ,,Oficina de empleo,"VELEZ SARSFIELD S/N, PB(2686)",03547- 428134,oealejandroroca@trabajo.gob.ar,-33.348999,-63.7179604
+7, Córdoba,ALTA GRACIA ,,Oficina de empleo,"BRASIL 331, PB(5186)",03547- 494052,oealtagracia@trabajo.gob.ar,-31.65455249999999,-64.43060299999999
+7, Córdoba,ANISACATE ,,Unidad de empleo,"SALOMON PALACIOS 15, PB(5189)",03563-421131,ueanisacate@trabajo.gob.ar,-31.718056,-64.400278
+7, Córdoba,BALNEARIA ,,Unidad de empleo,"BV. BELGRANO 272, PB(5141)",03534-410427/8,uebalnearia@trabajo.gob.ar,-31.0128017,-62.66572489999999
+7, Córdoba,BELL VILLE ,,Oficina de empleo,"25 DE MAYO 19 , PB(2550)",03562- 400784,oebellville@trabajo.gob.ar,-32.6201134,-62.68926239999999
+7, Córdoba,BELLA VISTA ,,Oficina de empleo,"CORRIENTES 1175, PB(3432)",03573 - 497335,oebellavista@trabajo.gob.ar,-29.5333309,-64.1666718
+7, Córdoba,BERROTARAN ,,Unidad de empleo,"25 DE MAYO Y ESQUIU. BARRIO 25 DE MAYO, PB(5817)",03548-489604,ueberrotaran@trabajo.gob.ar,-32.4495544,-64.3885956
+7, Córdoba,BRINKMANN ,,Unidad de empleo,"CORDOBA 313 ESQUINA RIVADAVIA, PB(2419)",0353-4894033/99,uebrinkmann@trabajo.gob.ar,-30.8665061,-62.0433147
+7, Córdoba,CALCHIN ,,Unidad de empleo,"GRAL PAZ 308, PB(5969)",0351-4341602,pendiente,-31.668045,-63.19916920000001
+7, Córdoba,CAPILLA DEL MONTE ,,Unidad de empleo,"PUEYRREDON 300 ESQ. DIAG. BUENOS AIRES, PB(5184)",0351-4285600 int 8373,uecdelmonte@trabajo.gob.ar,-30.8548107,-64.52574919999999
+7, Córdoba,CARRILOBO ,,Unidad de empleo,"SAN MARTIN 387, PB(5915)",0351-4285600 int 8233,uecarrilobo@trabajo.gob.ar,-31.8666706,-63.1333313
+7, Córdoba,CORDOBA (25 DE MAYO) ,,Oficina de empleo,"25 DE MAYO 469, PB(5000)",0351-4285600 int 8680,oecordoba@trabajo.gob.ar,,
+7, Córdoba,CORONEL MOLDES ,,Oficina de empleo,"URUGUAY 256, PB(5847)",0351- 4904333 int 15,oecoronelmoldes@trabajo.gob.ar,-33.6346397,-64.59960939999999
+7, Córdoba,CORRAL DE BUSTOS ,,Oficina de empleo,"ENTRE RIOS 1032, PB(2645)",0353-4846993,oecorraldebustos@trabajo.gob.ar,-33.2835312,-62.1854591
+7, Córdoba,CRUZ DEL EJE ,,Oficina de empleo,"FELIX CACERES Y TOMAS EDISON, PB(5280)",03525-442300,oecruzdeleje@trabajo.gob.ar,-30.7211227,-64.8098984
+7, Córdoba,DEAN FUNES ,,Oficina de empleo,"SAENZ PEÑA 497, PB(5200)",03543-469696,oedeanfunes@trabajo.gob.ar,-30.42249679999999,-64.3527756
+7, Córdoba,ESTACION JUAREZ CELMAN ,,Oficina de empleo,"LOS GIRASOLES S/N - DPTO COLON - CORDOBA, PB(5145)",03544-496198,oejuarezcelman@trabajo.gob.ar,-31.2733707,-64.1663284
+7, Córdoba,GENERAL DEHEZA ,,Oficina de empleo,"INT. JOSE FROUTE 48, PB(5923)",03533-423185,oegeneraldeheza@trabajo.gob.ar,-32.755703,-63.78236009999999
+7, Córdoba,HERNANDO ,,Oficina de empleo,"12 DE OCTUBRE 210/220, PB(5929)",03472-487008,oehernando@trabajo.gob.ar,-32.4268303,-63.730423
+7, Córdoba,HUANCHILLAS ,,Unidad de empleo,"ESTEBAN PIACENZA S/N( ENTRE CALLE JULIO A. ROCA Y 9 DE JULIO), PB(6121)",03472-444891,uehuanchilla@trabajo.gob.ar,-33.6730919,-63.6410484
+7, Córdoba,JESUS MARIA ,,Oficina de empleo,"TUCUMAN 275, PB(5220)",03562-402399,oejesusmaria@trabajo.gob.ar,-30.97630969999999,-64.09581279999999
+7, Córdoba,LA CALERA ,,Oficina de empleo,"RIVADAVIA 211 - BARRIO CENTRO, PB(5151)",03572 - 470404 / 470112,oelacalera@trabajo.gob.ar,-31.397222,-64.46
+7, Córdoba,LA PAZ ,,Unidad de empleo,"VELEZ SARFIELD S/N, PB(5117)",03543-358051,pendiente,,
+7, Córdoba,LAS ACEQUIAS ,,Unidad de empleo,"AV CORDOBA 375, PB(5848)",03574-427054,uelasacequias@trabajo.gob.ar,-33.2913208,-63.98162839999999
+7, Córdoba,LAS VARILLAS ,,Oficina de empleo,"TUCUMAN 52, PB(5940)",03571-427424�(int: 158 / 145),oelasvarillas@trabajo.gob.ar,-31.87050079999999,-62.7197901
+7, Córdoba,LEONES ,,Unidad de empleo,"SAN JOSE S/N (ENTRE RIVADAVIA Y BELGRANO), PB(2594)",03533-492502,ueleones@trabajo.gob.ar,-32.6587944,-62.2974091
+7, Córdoba,LOS CISNES ,,Unidad de empleo,"DR. DRAGONE S/N, PB(2684)",03543-494800,pendiente,-33.4000015,-63.4833298
+7, Córdoba,MARCOS JUAREZ ,,Oficina de empleo,"SANTIAGO DEL ESTERO 880, PB(2580)",03564-439118,oemarcosjuarez@trabajo.gob.ar,,
+7, Córdoba,MORTEROS ,,Oficina de empleo,"BELGRANO 800, PB(2421)",03549-496137,oemorteros@trabajo.gob.ar,-30.7099133,-62.00429149999999
+7, Córdoba,PILAR ,,Oficina de empleo,"AV GENERAL PAZ 1262, PB(5972)",03521-421516,oepilarcba@trabajo.gob.ar,-31.6782532,-63.8777771
+7, Córdoba,PUEBLO ITALIANO ,,Unidad de empleo,"MENDOZA 457, PB(2651)",03514-481449,uepuebloitaliano@trabajo.gob.ar,-33.3124123,-62.17744829999999
+7, Córdoba,RIO CEBALLOS ,,Oficina de empleo,"SAN MARTIN 4413, PB(5111)",03546-529653,oerioceballos@trabajo.gob.ar,-31.1705328,-64.3165022
+7, Córdoba,RIO CUARTO ,,Oficina de empleo,"LA RIOJA 151, PB(5800)",03571- 460401,oeriocuarto@trabajo.gob.ar,,
+7, Córdoba,RIO PRIMERO ,,Unidad de empleo,"FEDERICO CARRILLO ESQUINA 9 DE JULIO, PB(5127)",03541-498766,uerioprimero@trabajo.gob.ar,-31.3304939,-63.6205635
+7, Córdoba,RIO TERCERO ,,Oficina de empleo,"ALBERDI Y ALSINA, PB(5850)",0351-4905421,oeriotercero@trabajo.gob.ar,,
+7, Córdoba,SACANTA ,,Unidad de empleo,"BELGRANO 709, PB(5945)",03543-488999-484011/12 Int. 222,uesacanta@trabajo.gob.ar,-31.6634865,-63.0439034
+7, Córdoba,SALDAN ,,Unidad de empleo,"9 DE JULIO 62, PB(5150)",03548-470635 interno 2,uesaldan@trabajo.gob.ar,,
+7, Córdoba,SAN FRANCISCO ,,Oficina de empleo,"ECHEVERRIA 165, 1ro (2400)",03543-439661/2/3,oesanfrancisco@trabajo.gob.ar,-31.42499919999999,-62.0841599
+7, Córdoba,SAN MARCOS SIERRA ,,Unidad de empleo,"VELEZ SARSFIELD 1093, PB(5282)",03541-436428,uesanmarcoss@trabajo.gob.ar,-30.7834988,-64.63445279999999
+7, Córdoba,SAN PEDRO NORTE ,,Unidad de empleo,"ESQUIU ESQ. SAN MARTIN, PB(5205)",(03549-481076,uesanpedronorte@trabajo.gob.ar,-30.0911264,-64.155063
+7, Córdoba,SANTA MARIA DE PUNILLA ,,Unidad de empleo,"AV SAN MARTIN 1909 , PB(5164)",03524-472979,uestamariadepunilla@trabajo.gob.ar,,
+7, Córdoba,SANTA ROSA DE CALAMUCHITA ,,Oficina de empleo,"CORDOBA 144 , PB()",03544-422888,pendiente,-31.3989296,-64.1821289
+7, Córdoba,TANCACHA ,,Unidad de empleo,"BARTOLOME MITRE 543, PB(5933)",03546-461420,uetancacha@trabajo.gob.ar,-32.2390747,-63.9774475
+7, Córdoba,TANTI ,,Unidad de empleo,"TIERRA DEL FUEGO Y PUERTO ARGENTINO, PB(5155)",03534-536796,uetanti@trabajo.gob.ar,-31.3333302,-64.5999985
+7, Córdoba,TOLEDO ,,Unidad de empleo,"25 DE MAYO 321, PB(5123)",03777-450468 / 451474,uetoledo@trabajo.gob.ar,-31.5539608,-64.0066528
+7, Córdoba,UCACHA ,,Unidad de empleo,"CHACABUCO 326, PB(1001)",0358-4989115,ueucacha@trabajo.gob.ar,-33.0330772,-63.5069771
+7, Córdoba,UNQUILLO ,,Oficina de empleo,"AV. SAN MARTIN Nro 2186, PB(5109)",0358-4940036-4941000,oeunquillo@trabajo.gob.ar,,
+7, Córdoba,VALLE HERMOSO ,,Oficina de empleo,"MARTIN RODRIGUEZ S/ , PB(5168)",03582-466661,oevallehermoso@trabajo.gob.ar,-31.1160297,-64.4819412
+7, Córdoba,VILLA ALLENDE ,,Oficina de empleo,"RIVADAVIA 120, PB(5105)",0358-4057513,oevillaallende@trabajo.gob.ar,,
+7, Córdoba,VILLA CARLOS PAZ ,,Oficina de empleo,"LINIERS 50 - BARRIO LAS ROSAS, PB(5152)",03584-492033,oecarlospaz@trabajo.gob.ar,,
+7, Córdoba,VILLA DE SOTO ,,Oficina de empleo,"CORDOBA Nro 505, PB(5284)",0358- 4890005,oevilladesoto@trabajo.gob.ar,-30.8560326,-64.9836105
+7, Córdoba,VILLA DEL TOTORAL ,,Unidad de empleo,"RIVADAVIA ESQ. LEOPOLDO LUGONES, PB(5236)",03584-15497205-493006,uevilladeltotoral@trabajo.gob.ar,-30.7038841,-64.0653076
+7, Córdoba,VILLA DOLORES ,,Oficina de empleo,"AVENIDA ESPAÑA 478, PB(5870)",03463-497091 / 497071,oevilladolores@trabajo.gob.ar,-31.944437,-65.19210819999999
+7, Córdoba,VILLA GENERAL BELGRANO ,,Oficina de empleo,"SAN MARTIN 43, PB(5194)",0358-4671990 / 957,oevgbelgrano@trabajo.gob.ar,-31.9833298,-64.5666809
+7, Córdoba,VILLA MARIA ,,Oficina de empleo,"MENDOZA 852, PB(5900)",0353-4893959,oevillamaria@trabajo.gob.ar,,
+8, Corrientes,BONPLAND ,,Unidad de empleo,"MARIANO MORENO S/N, PB(3234)",03772-15400378,uebonpland@trabajo.gob.ar,-27.4712257,-58.83958440000001
+8, Corrientes,CORRIENTES ,,Oficina de empleo,"PJE. VILLANUEVA Nro 1460 , PB(3400)",0379-4474228,oecorrientes@trabajo.gob.ar,-27.4712257,-58.83958440000001
+8, Corrientes,CRUZ DE LOS MILAGROS ,,Unidad de empleo,"CORRIENTES S/N, PB(3441)",03777-687852/605349,pendiente,,
+8, Corrientes,CURUZU CUATIA ,,Oficina de empleo,"GRAL RAMIREZ 753 , PB(3460)",03774-425180,oecuruzucuatia@trabajo.gob.ar,-29.7915416,-58.0499307
+8, Corrientes,GOYA ,,Oficina de empleo,"AV. NEUSTAD 110, PB(3450)",03777-420185,oegoya@trabajo.gob.ar,,
+8, Corrientes,ITUZAINGO ,,Oficina de empleo,"CENTENARIO Y BERNARDINO VALLE, PB(3302)",03786-420780,oeituzaingoctes@trabajo.gob.ar,-27.5707613,-56.7246995
+8, Corrientes,JOSE RAFAEL GOMEZ ,,Unidad de empleo,"AVENIDA AMERICA Y 9 DE JULIO, PB(3340)",03756-443007,uejrgomez@trabajo.gob.ar,-27.4712257,-58.83958440000001
+8, Corrientes,LA CRUZ ,,Oficina de empleo,"9 DE JULIO ENTRE ALTAMIRANO Y BUENOS AIRES , PB(3346)",03772 491149 / 03772 443626,oelacruz@trabajo.gob.ar,-29.1782999,-56.6379694
+8, Corrientes,MANTILLA (PEDRO R. FERNANDEZ) ,,Unidad de empleo,"MANUEL F MANTILLA S/N, PB(3446)",03777-562658,uemantilla@trabajo.gob.ar,-28.7490273,-58.6539345
+8, Corrientes,MERCEDES ,,Oficina de empleo,"PLACIDO MARTINEZ 1260, PB(3470)",03773-423001,oemercedesctes@trabajo.gob.ar,,
+8, Corrientes,MONTE CASEROS ,,Oficina de empleo,"EL MAESTRO 945, PB(3220)",03775-425420,oemontecaseros@trabajo.gob.ar,-30.2494283,-57.62968739999999
+8, Corrientes,PASO DE LA PATRIA ,,Unidad de empleo,"MENDOZA 117, PB(3409)",03794-494702,uepasodelapatria@trabajo.gob.ar,-27.3166695,-58.5833282
+8, Corrientes,PASO DE LOS LIBRES ,,Oficina de empleo,"RIVADAVIA 1115, PB(3230)",03772-427720,oepdeloslibres@trabajo.gob.ar,,
+8, Corrientes,PERUGORRIA ,,Unidad de empleo,"QUINTA SECCION RUTA 23 Y 24, PB(3461)",03773-403136,ueperugorria@trabajo.gob.ar,-29.3400421,-58.6085739
+8, Corrientes,PUEBLO LIBERTADOR ,,Unidad de empleo,"SAN MARTIN Y 25 DE MAYO, PB(3197)",03777-496073,pendiente,-30.2178993,-59.3838501
+8, Corrientes,RAMADA PASO ,,Unidad de empleo,"AVENIDA 13 DE JUNIO, PB(3412)",0379-4378158/4542072,ueramadapaso@trabajo.gob.ar,-27.4712257,-58.83958440000001
+8, Corrientes,SAN ROQUE ,,Unidad de empleo,"ISLAS MALVINAS 795, PB(3448)",03777-309025,uesanroque@trabajo.gob.ar,-28.5746822,-58.7091255
+8, Corrientes,SANTO TOME ,,Oficina de empleo,"AV. SAN MARTIN Y ANGEL BLANCO, PB(3340)",03756-420177,oesantotomectes@trabajo.gob.ar,-28.5516205,-56.0456352
+8, Corrientes,SAUCE ,,Unidad de empleo,"BARTOLOME MITRE 799, PB(3423)",03774-403770,uesauce@trabajo.gob.ar,-30.086153,-58.78668589999999
+8, Corrientes,TABAY ,,Unidad de empleo,"PEDRO RIOS S/N, PB(3421)",03782-509244,uetabay@trabajo.gob.ar,-28.2999992,-58.28332899999999
+8, Corrientes,TAPEBICUA ,,Unidad de empleo,"J.R. VIDAL S/N, PB(3232)",03772-431406,uetapebicua@trabajo.gob.ar,-29.4851398,-56.9826622
+9, Entre Ríos,BASAVILBASO ,,Oficina de empleo,"AV. SAN MARTIN S/N, PB(3170)",03445-15401255,oebasavilbaso@trabajo.gob.ar,-32.3687833,-58.87495
+9, Entre Ríos,BOVRIL ,,Oficina de empleo,"ALTE. BROWN 153, PB(3142)",03438-422000,oebovril@trabajo.gob.ar,-31.3434707,-59.4465431
+9, Entre Ríos,CERRITO ,,Oficina de empleo,"SANTA FE 85, PB(3122)",0343-48990091,oecerrito@trabajo.gob.ar,,
+9, Entre Ríos,CHAJARI ,,Oficina de empleo,"SARMIENTO 2995 (EX ESTACION FERROCARRIL), PB(3228)",03456-420730,oechajari@trabajo.gob.ar,-30.7572746,-57.99161909999999
+9, Entre Ríos,COLON ,,Oficina de empleo,"LAPRIDA 86, PB(3280)",03447- 421911,oecolon@trabajo.gob.ar,,
+9, Entre Ríos,CONCEPCION DEL URUGUAY ,,Oficina de empleo,"LEGUIZAMON 86, PB(3260)",03442-421152,oecdeluruguay@trabajo.gob.ar,,
+9, Entre Ríos,CONCORDIA ,,Oficina de empleo,"CARRIEGO 224, PB(3200)",0345-4216558/0345-4213452,oeconcordia@trabajo.gob.ar,,
+9, Entre Ríos,DIAMANTE ,,Oficina de empleo,"BELGRANO 607 , PB(3105)",0343-4985012,oediamante@trabajo.gob.ar,,
+9, Entre Ríos,FEDERACION ,,Oficina de empleo,"AV. SAN MARTIN Y LAS HORTENSIAS, PB(3206)",03456-481119,oefederacion@trabajo.gob.ar,-30.9850361,-57.91984170000001
+9, Entre Ríos,GENERAL CAMPOS ,,Unidad de empleo,"SARMIENTO 585, PB(3216)",0345-4901653,uegralcampos@trabajo.gob.ar,-31.5335102,-58.4005699
+9, Entre Ríos,GENERAL GALARZA ,,Unidad de empleo,"25 DE MAYO Y JUAN CARLOS BURONE, PB(2843)",03444-481068,uegalarza@trabajo.gob.ar,-32.7204781,-59.3945007
+9, Entre Ríos,GENERAL RAMIREZ ,,Oficina de empleo,"BELGRANO S/N (ENTRE SARMIENTO Y TRATADO DEL PILAR), PB(3164)",0343-4901184,oegeneralramirez@trabajo.gob.ar,-32.172489,-60.20259900000001
+9, Entre Ríos,GUALEGUAY ,,Oficina de empleo,"SAN ANTONIO (NORTE) Nro 571, PB(2840)",03444- 429368 / 426256,oegualeguay@trabajo.gob.ar,-33.1512413,-59.3344116
+9, Entre Ríos,GUALEGUAYCHU ,,Oficina de empleo,"YRIGOYEN 75, PB(2820)",03446-420485,oegualeguaychu@trabajo.gob.ar,,
+9, Entre Ríos,HERNANDARIAS ,,Oficina de empleo,"EVA PERON Y PTE PERON, PB(3127)",0343- 4960447,oehernandarias@trabajo.gob.ar,-32.5175643,-59.1041758
+9, Entre Ríos,LA PAZ ,,Oficina de empleo,"FRENCH 942, PB(3190)",03437-424692,oelapazerios@trabajo.gob.ar,,
+9, Entre Ríos,LARROQUE ,,Oficina de empleo,"25 DE MAYO 249, PB(2854)",03446-460014,oelarroque@trabajo.gob.ar,-32.5175643,-59.1041758
+9, Entre Ríos,NOGOYA ,,Oficina de empleo,"25 DE MAYO 677, PB(3150)",03435-423169,oenogoya@trabajo.gob.ar,-32.399216,-59.7877403
+9, Entre Ríos,PARANA ,,Oficina de empleo,"VILLAGUAY 62, PB(3100)",0343-4211886,oeparana@trabajo.gob.ar,,
+9, Entre Ríos,SAN JOSE ,,Oficina de empleo,"CENTENARIO 2184, PB(3283)",03447-470928,oesanjoseerios@trabajo.gob.ar,,
+9, Entre Ríos,SAN JOSE DE FELICIANO ,,Oficina de empleo,"MORENO Y SARMIENTO, PB(3187)",03458-420666,oefeliciano@trabajo.gob.ar,-30.3826904,-58.7493896
+9, Entre Ríos,SAN SALVADOR ,,Oficina de empleo,"SAN MARTIN 271, PB(3218)",0345 154 325 287,oesansalvadorer@trabajo.gob.ar,-31.6159096,-58.4994507
+9, Entre Ríos,SANTA ELENA ,,Oficina de empleo,"PRESIDENTE PERON E HIPOLITO YRIGOYEN (TERMINAL DE OMNIBUS), 2do (3192)",03437-481223/480488,oesantaelena@trabajo.gob.ar,-30.9512291,-59.8013306
+9, Entre Ríos,VIALE ,,Unidad de empleo,"CALLE M. PANUTTO S/N (PREDIO FERROCARRIL), PB(3109)",0343-4920155,ueviale@trabajo.gob.ar,-31.8707771,-60.0059662
+9, Entre Ríos,VICTORIA ,,Oficina de empleo,"MATANZA 18, PB(3153)",03436 - 422660/ 08004441313,oevictoria@trabajo.gob.ar,,
+9, Entre Ríos,VILLA ELISA ,,Unidad de empleo,"PRESB. HOFLACK 1447, PB(3265)",03447 480235,uevillaelisa@trabajo.gob.ar,-32.1641185,-58.40059899999999
+9, Entre Ríos,VILLA PARANACITO ,,Oficina de empleo,"AVENIDA ENTRE RIOS 941, PB(2823)",03446 495080/ 133,oevillaparanacito@trabajo.gob.ar,-33.71595569999999,-58.65800780000001
+9, Entre Ríos,VILLAGUAY ,,Oficina de empleo,"25 DE MAYO 257, PB(3240)",03455-15515022,oevillaguay@trabajo.gob.ar,,
+10, Formosa,BUENA VISTA ,,Oficina de empleo,"AVENIDA BUENOS AIRES SUR, PB(4640)",0370-154469427 / 03718-4495763,oeabrapampa@trabajo.gob.ar,-23.3333302,-61.59999850000001
+10, Formosa,CIUDAD DE FORMOSA ,,Unidad de empleo,"RUTA PROVINCIAL 4 E HIPOLITO YRIGOYEN, PB(3615)",0370-4454334,pendiente,,
+10, Formosa,CLORINDA ,,Oficina de empleo,"BERUTI Y AV. DIAGONAL - BARRIO LA ALBORADA, PB(3600)",03718-426911,oeformosa@trabajo.gob.ar,-25.2881832,-57.7228203
+10, Formosa,COLONIA PASTORIL ,,Oficina de empleo,"JOSE FERNADEZ CANCIO 1945, PB(3610)",0370-4661069,oeclorinda@trabajo.gob.ar,-25.6721745,-58.2623634
+10, Formosa,COMANDANTE FONTANA ,,Unidad de empleo,"25 DE MAYO, FRENTE A LA ESC. PROV. Nro 48, PB(3601)",03716-480018,uecpastoril@trabajo.gob.ar,-25.3347988,-59.6819153
+10, Formosa,EL COLORADO ,,Oficina de empleo,"AV. SAN MARTIN Y MAJIN GUERRERO, PB(3620)",0370-4480907,oectefontana@trabajo.gob.ar,-26.3091354,-59.3717155
+10, Formosa,EL ESPINILLO ,,Oficina de empleo,"SARMIENTO 290, PB(3603)",03718-480085,oeelcolorado@trabajo.gob.ar,-24.966667,-58.566667
+10, Formosa,ESTANISLAO DE CAMPO ,,Unidad de empleo,"GUEMEZ ESQUINA 9 DE JULIO S/N, PB(3615)",03717-590223,ueelespinillo@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,FORTIN LUGONES ,,Unidad de empleo,"RIVADAVIA Y MARTIN M LLANOS , PB(3626)",03704-608580,ueestdecampo@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,GENERAL GUEMES ,,Unidad de empleo,"AV. 9 DE JULIO Y NESTOR KIRCHNER, PB(3621)",3716-492030,pendiente,-26.185201,-58.1753697
+10, Formosa,GENERAL MANUEL BELGRANO ,,Oficina de empleo,"AV.BELGRANO Y VELEZ SARFIELD, PB(3621)",03710-4687544,oegralguemes@trabajo.gob.ar,-24.940278,-59.02749999999999
+10, Formosa,GRAL. MOSCONI ,,Oficina de empleo,"AV DEL LIBERTADOR Y AV JUAN D.PERON , PB(3615)",0370-4714353 / 0370-4714353,oegmbelgrano@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,HERRADURA ,,Oficina de empleo,"AV 2 DE ABRIL S/N , PB(3636)",0370-4300374,oemosconi@trabajo.gob.ar,-26.4869232,-58.3108749
+10, Formosa,IBARRETA ,,Unidad de empleo,"AV. SAN MARTIN 363, PB(3601)",0370-432093,ueherradura@trabajo.gob.ar,-25.2150536,-59.8573494
+10, Formosa,INGENIERO JUAREZ ,,Oficina de empleo,"SARMIENTO E/ 25 DE MAYO Y R.SAENZ PEÑA, PB(3624)",037111-5614118,oeibarreta@trabajo.gob.ar,-23.9,-61.84999999999999
+10, Formosa,LAGUNA BLANCA ,,Oficina de empleo,"AV. DEGEN Y FERNANDO ANAQUIN S/N, PB(3636)",03718-4701510,oeijuarez@trabajo.gob.ar,-25.1296501,-58.2451477
+10, Formosa,LAGUNA NAINECK ,,Oficina de empleo,"SAN MARTIN Y L.N. ALEM, PB(3613)",03718-400324,oelagunablanca@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,LAGUNA YEMA ,,Oficina de empleo,"AVENIDA DEL LABRADOR S/N, PB(3611)",03704-15376354,oelagunanaineck@trabajo.gob.ar,-24.2550697,-61.2377892
+10, Formosa,LAS LOMITAS ,,Oficina de empleo,"AV. GRAL PAZ S/N, PB(3634)",0371-5432112,oelagunayema@trabajo.gob.ar,-24.7045002,-60.6005783
+10, Formosa,LUCIO MANSILLA ,,Oficina de empleo,"SAN MARTIN 190, PB(3630)",0370-4384331,oelaslomitas@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,MAYOR VILLAFAÑE ,,Unidad de empleo,"AV. SAN MARTIN ENTRE MITRE Y URQUIZA, PB(3526)",03704-490019,uegeneralmansilla@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,MISION SAN FRANCISCO DE LAISHI ,,Unidad de empleo,"HIPOLITO IRIGOYEN Y PADRE FERLINI, PB(3601)",03717-723836,uemvillafañe@trabajo.gob.ar,-26.2446899,-58.62965010000001
+10, Formosa,MISION TACAAGLE ,,Oficina de empleo,"SAN MARTIN 288, PB(3605)",03718 - 15613300,oelaishi@trabajo.gob.ar,-24.9787769,-58.8231316
+10, Formosa,PALO SANTO ,,Unidad de empleo,"AVDA. EJERCITO LIBERTADOR S/N, PB(3615)",03717-494188,uemtacaagle@trabajo.gob.ar,-25.5633259,-59.3364182
+10, Formosa,PIRANE ,,Oficina de empleo,"AVENIDA 2 DE ABRIL 906, PB(3608)",03704-586440,oepalosanto@trabajo.gob.ar,-25.7317829,-59.10686870000001
+10, Formosa,RIACHO HE HE ,,Oficina de empleo,"SARMIENTO Y GRAL PAZ, PB(3606)",03718-492033,oepirane@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,SAN MARTIN DOS ,,Oficina de empleo,"AV. LIB.GRAL. JOSE DE SAN MARTIN S/N, PB(3611)",03704 - 258445,oeriachohehe@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,SIETE PALMAS ,,Oficina de empleo,"AV. DOCENTES ARGENTINOS S/N.Y MARIANO MORENO, PB(3621)",03718-403043,oesanmartindos@trabajo.gob.ar,-25.2022839,-58.3319206
+10, Formosa,SUBTENIENTE PERIN ,,Unidad de empleo,"GÜEMES Y 25 DE MAYO, PB(3613)",03716-413604,uesietepalmas@trabajo.gob.ar,-26.185201,-58.1753697
+10, Formosa,TRES LAGUNAS ,,Unidad de empleo,"JESUS ARANDA Y AV. 25 DE MAYO, PB(3624)",03717-407025,uesubtenienteperin@trabajo.gob.ar,-25.25,-58.4500008
+10, Formosa,VILLA DOS TRECE ,,Unidad de empleo,"AVDA. EULOGIO GOMEZ S/N, PA(3611)",0370-4492726,uetreslagunas@trabajo.gob.ar,-26.1850338,-59.36306
+10, Formosa,VILLA ESCOLAR ,,Oficina de empleo,"PRESIDENTE NESTOR KIRCHNER S/N, PB(3602)",0370-4497401,oevilladostrece@trabajo.gob.ar,-26.6222916,-58.6704178
+11, Jujuy,ABRA PAMPA ,,Unidad de empleo,"NESTOR KIRCHNER 486, PB(3526)",0388154081400,uevillaescolar@trabajo.gob.ar,-22.7226738,-65.69698319999999
+11, Jujuy,AGUAS CALIENTES ,,Unidad de empleo,"LAPRIDA S/N, PB(4431)",0388-4873587,ueaguascalientes@trabajo.gob.ar,-24.5844722,-64.92337789999999
+11, Jujuy,CAIMANCITO ,,Unidad de empleo,"CATAMARCA 473 BARRIO CENTRO CAIMANCITO, PB(4516)",03886 - 493902,uecaimancito@trabajo.gob.ar,-23.7399249,-64.5915976
+11, Jujuy,EL CARMEN ,,Oficina de empleo,"SAN MARTIN 515 - EL CARMEN, PB(4603)",0388-4933765,oeelcarmen@trabajo.gob.ar,,
+11, Jujuy,FRAILE PINTADO ,,Unidad de empleo,"ARGAÑARAZ S/N ESA. GORRITI, PB(4506)",0388-480013,uefrailepintado@trabajo.gob.ar,-23.9442066,-64.8031487
+11, Jujuy,HUMAHUACA ,,Oficina de empleo,"SANTA FE ESQ. ENTRE RIOS, PB(4630)",03887-421375,oehumahuaca@trabajo.gob.ar,,
+11, Jujuy,LA MENDIETA ,,Oficina de empleo,"PASAJE BELGRANO S/N, PB(4522)",03884-493454,oelamendieta@trabajo.gob.ar,-24.3142376,-64.9668756
+11, Jujuy,LA QUIACA ,,Oficina de empleo,"PELLEGRINI ESQ. RIVADAVIA, PB(4650)",0388 -5422811,oelaquiaca@trabajo.gob.ar,,
+11, Jujuy,LIBERTADOR GENERAL SAN MARTIN ,,Oficina de empleo,"BELGRANO 350, PB(4512)",03886-428589,oelgsanmartin@trabajo.gob.ar,,
+11, Jujuy,MAIMARA ,,Unidad de empleo,"AV.. BELGRANO S/N, PB(4622)",0388 4879510,uemaimara@trabajo.gob.ar,-23.6245592,-65.4087255
+11, Jujuy,MONTERRICO ,,Oficina de empleo,"RUFFINO ARIAS 951 - BARRIO SAN IGNACIO, PB(4608)",0388-4944169,oemonterrico@trabajo.gob.ar,-24.4429822,-65.1663478
+11, Jujuy,PALMA SOLA ,,Unidad de empleo,"ROBERTO DOMINGUEZ S/N, PB(4501)",03886-496069,uepalmasola@trabajo.gob.ar,-23.9750313,-64.3029985
+11, Jujuy,PALPALA ,,Oficina de empleo,"RIO DE LA PLATA 363 - BARRIO SAN I DE LOYOLA, PB(4612)",0388-4276689,oepalpala@trabajo.gob.ar,-24.2648355,-65.2117778
+11, Jujuy,PERICO ,,Oficina de empleo,"MARIANO MORENO ESQ. LAVALLE, PB(4610)",0388-4918598,oeperico@trabajo.gob.ar,,
+11, Jujuy,PUESTO VIEJO ,,Unidad de empleo,"BARRIO CENTRO MINA S/ CALLE S/ NUMERO , PB(4606)",0388-4913021/22,uepuestoviejo@trabajo.gob.ar,,
+11, Jujuy,SAN ANTONIO ,,Unidad de empleo,"SARMIENTO ESQUINA BELGRANO, PB(4503)",0388-4998130,uesanantonio@trabajo.gob.ar,-24.1857864,-65.2994767
+11, Jujuy,SAN PEDRO DE JUJUY ,,Oficina de empleo,"PATERSON Nro 33, PB(4500)",03884-420722,oesanpedrojujuy@trabajo.gob.ar,,
+11, Jujuy,SAN SALVADOR DE JUJUY ,,Oficina de empleo,"ALMIRANTE BROWN ESQ. RIVADAVIA , PB(4600)",0388-4020156,oesansalvador@trabajo.gob.ar,,
+11, Jujuy,VOLCAN ,,Oficina de empleo,"GURRUCHAGA 91, PB(4616)",0388-4792823,oevolcan@trabajo.gob.ar,,
+11, Jujuy,YAVI ,,Oficina de empleo,"GUEMES S/N , PB(4651)",03887-491138,oeyavi@trabajo.gob.ar,,
+11, Jujuy,YUTO ,,Unidad de empleo,"CALLE TUCUMAN 175 MZA. V LOTE 3 BARRIO CENTRO, PB(4518)",03886-15559382,ueyuto@trabajo.gob.ar,-23.6427652,-64.47189949999999
+12, La Pampa,9 DE JULIO ,,Oficina de empleo,"ROBBIO 323, PB(6500)",02335-450105/103,oe9dejulio@trabajo.gob.ar,-37.8956594,-65.0957792
+12, La Pampa,CALUEFU ,,Unidad de empleo,"SAN MARTIN 397, PB(6387)",02334-445787,uecaleufu@trabajo.gob.ar,-37.8956594,-65.0957792
+12, La Pampa,EDUARDO CASTEX ,,Oficina de empleo,"9 DE JULIO 650, PB(6380)",02302-434234,oecastex@trabajo.gob.ar,-35.9091738,-64.2832655
+12, La Pampa,GENERAL PICO ,,Oficina de empleo,"CALLE 16 Nro 451 , PB(6360)",02925-497320,oegeneralpico@trabajo.gob.ar,,
+12, La Pampa,GENERAL SAN MARTIN ,,Oficina de empleo,"ESPAÑA Y 25 DE MAYO , PB(8206)",02924-492059,oesanmartinlp@trabajo.gob.ar,-37.9800911,-63.6027298
+12, La Pampa,GUATRACHE ,,Oficina de empleo,"ATE. BROWN 598, PB(6311)",02302 - 481091 Int 45,oeguatrache@trabajo.gob.ar,-37.6687126,-63.5415382
+12, La Pampa,INTENDENTE ALVEAR ,,Oficina de empleo,"AVENIDA SAN MARTIN Nro 753, PB(6221)",02931-430650,oeintalvear@trabajo.gob.ar,-35.236515,-63.59082789999999
+12, La Pampa,LA ADELA ,,Oficina de empleo,"AV LIBERTADOR 900, PB(8138)",02954 494155,oelaadela@trabajo.gob.ar,-38.97737499999999,-64.0818329
+12, La Pampa,LONQUIMAY ,,Unidad de empleo,"SAN MARTIN 382, PB(6352)",02953-453130,uelonquimay@trabajo.gob.ar,-36.4663696,-63.62183
+12, La Pampa,MACACHIN ,,Unidad de empleo,"BUENOS AIRES 321, PB(6307)",02331-498256,pendiente,-37.1502686,-63.64928819999999
+12, La Pampa,RANCUL ,,Oficina de empleo,"AV. COLON 600, PB(6214)",02954-451586,oerancul@trabajo.gob.ar,-35.0696793,-64.6819687
+12, La Pampa,SANTA ROSA ,,Oficina de empleo,"LISANDRO DE LA TORRE 46, PB(6300)",02954- 381991 / 92 / 93,oesantarosalp@trabajo.gob.ar,,
+12, La Pampa,TOAY ,,Oficina de empleo,"AV. 9 DE JULIO 514, PB(6303)",02338-432453,oetoay@trabajo.gob.ar,,
+12, La Pampa,VICTORICA ,,Oficina de empleo,"CALLE 19 ESQUINA 18, PB(6319)",02317-422751,oevictorica@trabajo.gob.ar,-36.2161713,-65.4323502
+13, La Rioja,ARAUCO ,,Oficina de empleo,"SAN MARTIN 315 ESQUINA 9 DE JULIO, PB(5310)",03827-420115 interno 33,oearauco@trabajo.gob.ar,-28.5685844,-66.80146789999999
+13, La Rioja,CASTRO BARROS ,,Unidad de empleo,"AV. CASTRO BARROS S/, PB(5276)",03822-15520155,pendiente,-30.5831909,-65.7339478
+13, La Rioja,CHAMICAL ,,Oficina de empleo,"HIPOLITO IRIGOYEN 153 , PB(5380)",03826-423682,oechamical@trabajo.gob.ar,-30.36156459999999,-66.31504819999999
+13, La Rioja,CHILECITO ,,Oficina de empleo,"GOBERNADOR MOTTA 41, PB(5360)",03825-429664,oechilecito@trabajo.gob.ar,-29.1659603,-67.5
+13, La Rioja,CNEL FELIPE VARELA (VILLA UNION) ,,Oficina de empleo,"NICOLAS DAVILA S/N, PB(5350)",03825-470546,oevillaunion@trabajo.gob.ar,-29.3005409,-68.20037839999999
+13, La Rioja,FAMATINA ,,Unidad de empleo,"PRESBITERO RAMON DIAZ S/N, PB(5365)",03825-493336 /493020,uefamatina@trabajo.gob.ar,-28.9160194,-67.5164795
+13, La Rioja,GENERAL ANGEL VICENTE PEÑALOZA ,,Unidad de empleo,"SAN NICOLAS DE BARI ESQ. BENJAMIN DE LA VEGA., PB(5385)",03821-420289 int 224,ueavpeÑaloza@trabajo.gob.ar,-30.2837165,-66.712915
+13, La Rioja,GENERAL BELGRANO ,,Oficina de empleo,"CASTRO BARROS S/N, PB(5383)",03826-491620,oegralbelgrano@trabajo.gob.ar,-30.5831909,-65.7339478
+13, La Rioja,GENERAL JUAN FACUNDO QUIROGA ,,Unidad de empleo,"AV. LOS CAUDILLOS S/, PB(5385)",03826-490450,uejfquiroga@trabajo.gob.ar,-30.8414135,-66.90349359999999
+13, La Rioja,GENERAL LAMADRID ,,Unidad de empleo,"SAN MARTIN S/, PB(5355)",03825 497020.,uegenerallamadrid@trabajo.gob.ar,-28.8608802,-68.62010719999999
+13, La Rioja,GENERAL OCAMPO ,,Unidad de empleo,"BELGRANO 244, PB(5274)",0380-4380468,uegocampo@trabajo.gob.ar,-29.4128001,-66.8559803
+13, La Rioja,INDEPENDENCIA ,,Unidad de empleo,"25 DE MAYO 406, PB(5386)",0380-4325441,pendiente,-29.4128001,-66.8559803
+13, La Rioja,LA RIOJA ,,Oficina de empleo,"AVDA. RIVADAVIA Nro 1116, PB(5300)",0380-4433033,oelarioja@trabajo.gob.ar,-29.4128001,-66.8559803
+13, La Rioja,ROSARIO VERA PEÑALOZA (CHEPES) ,,Oficina de empleo,"AV. BELGRANO SUR S/N, PB(5470)",03821-665227,oechepes@trabajo.gob.ar,-31.3363895,-66.5918427
+13, La Rioja,SAN BLAS DE LOS SAUCES ,,Unidad de empleo,"RUTA 40 S/, PB(5329)",03827-15401317,pendiente,,
+13, La Rioja,SAN MARTIN ,,Unidad de empleo,"AVDA 25 DE MAYO S/N ESQ. SARMIENTO S/N, PB(5300)",0381-491340,uesanmartinlr@trabajo.gob.ar,-29.4128001,-66.8559803
+13, La Rioja,SANAGASTA ,,Unidad de empleo,"JUSTINA GARCIA S/N, PB(5301)",0380-154328097,oesanagasta@trabajo.gob.ar,-29.266667,-67.01666700000001
+13, La Rioja,VINCHINA ,,Unidad de empleo,"AV. CARLOS SAUL MENEM S/N, PB(5357)",0380-154603262,uevinchina@trabajo.gob.ar,-28.7677002,-68.1674194
+14, Mendoza,GENERAL ALVEAR ,,Oficina de empleo,"SARMIENTO 35, PB(5620)",02625-422490,oegeneralalvear@trabajo.gob.ar,-34.9740067,-67.6856918
+14, Mendoza,GODOY CRUZ ,,Oficina de empleo,"SAN MARTIN Y RIVADAVIA, PB(5501)",0261-4133131/3260/61,oegodoycruz@trabajo.gob.ar,,
+14, Mendoza,GUAYMALLEN ,,Oficina de empleo,"MARINOS ARGENTINOS 1664 ESQ. ALLAYME, PB(5519)",0261-4311404/4325109,oeguaymallen@trabajo.gob.ar,-32.8765331,-68.6916501
+14, Mendoza,JUNIN ,,Oficina de empleo,"DEFENSA Y 25 DE MAYO S/N, PB(5573)",0263 - 4421850,oejuninmdza@trabajo.gob.ar,-33.1484985,-68.48603059999999
+14, Mendoza,LA PAZ ,,Oficina de empleo,"BELGRANO Y GALIGNIANA, PB(5590)",02626-421400,oelapaz@trabajo.gob.ar,-33.4597893,-67.5490112
+14, Mendoza,LAS HERAS ,,Oficina de empleo,"SAN MIGUEL 1434, PB(5539)",0261-4309594/4301007,oelasheras@trabajo.gob.ar,,
+14, Mendoza,LAVALLE ,,Oficina de empleo,"MORENO ESQUINA FLEMING, VILLA TULUMAYA LAVALLE MZA, PB(5533)",0261-4941958,oelavalle@trabajo.gob.ar,-32.6074249,-67.57085359999999
+14, Mendoza,LUJAN DE CUYO ,,Oficina de empleo,"SAN MARTIN 250, PB(5507)",0261-4989945,oelujandecuyo@trabajo.gob.ar,,
+14, Mendoza,MAIPU ,,Oficina de empleo,"CALLE LEMOS Nro 56, PB(5515)",0261-4976202,oemaipu@trabajo.gob.ar,-32.9672203,-68.7826614
+14, Mendoza,MALARGUE ,,Oficina de empleo,"SATURNINO TORRES Y ADOLFO PUEBLA, PB(5613)",0260-4470996 / 0260-4574638,oemalargue@trabajo.gob.ar,-35.4721298,-69.5808716
+14, Mendoza,MENDOZA CAPITAL ,,Oficina de empleo,"LAS HERAS Y BELGRANO, PB(5500)",0261-4232567,oemendoza@trabajo.gob.ar,,
+14, Mendoza,RIVADAVIA ,,Oficina de empleo,"RUTA 62 S/N, ENTRE CALLE SARMIENTO Y BRANDSEN., PB(5577)",0263-4444549,oerivadaviamza@trabajo.gob.ar,-33.1842003,-68.46679689999999
+14, Mendoza,SAN CARLOS ,,Oficina de empleo,"SIXTO VIDELA Y JULIO BALMACEDA, PB(5569)",02622-15411159,oesancarlosmza@trabajo.gob.ar,-33.7738457,-69.0417938
+14, Mendoza,SAN MARTIN ,,Oficina de empleo,"ALTE BROWN 50, PB(5570)",0263-4451201,oesanmartinmza@trabajo.gob.ar,,
+14, Mendoza,SAN RAFAEL ,,Oficina de empleo,"DAY 221, PB(5600)",0260-4449278,oesanrafael@trabajo.gob.ar,,
+14, Mendoza,SANTA ROSA ,,Oficina de empleo,"SAN MARTIN S/, PB(5596)",0263-154527276,oesantarosamza@trabajo.gob.ar,-33.2536697,-68.1489639
+14, Mendoza,TUNUYAN ,,Oficina de empleo,"ARGENTINA S/N, PB(5560)",02622 - 423640,oetunuyan@trabajo.gob.ar,-33.571167,-69.0132141
+14, Mendoza,TUPUNGATO ,,Oficina de empleo,"LAPRIDA 35, PB(5561)",02622-489585,oetupungato@trabajo.gob.ar,-33.3654785,-69.13421629999999
+15, Misiones,25 DE MAYO ,,Oficina de empleo,"SAN MARTIN S/N, PB(6363)",03755-493222,oe25demayomis@trabajo.gob.ar,-27.3771896,-54.743454
+15, Misiones,APOSTOLES ,,Oficina de empleo,"MALVINAS ARGENTINAS 643 (PREDIO EXPO YERBA), PB(3350)",03758-422798,oeapostoles@trabajo.gob.ar,-27.9143324,-55.7549223
+15, Misiones,ARISTOBULO DEL VALLE ,,Oficina de empleo,"AV. DE LAS AMERICAS 1349, PB(3364)",03755-15213888,oeadelvalle@trabajo.gob.ar,-27.0974693,-54.8964386
+15, Misiones,CAMPO GRANDE ,,Oficina de empleo,"FRAY LUIS BELTRAN 177, PB(3362)",03755-499079,oecampogrande@trabajo.gob.ar,-27.2048149,-54.9783745
+15, Misiones,CAMPO VIERA ,,Oficina de empleo,"AVENIDA DEL TE 94, PB(3362)",03755-497435,oecampoviera@trabajo.gob.ar,-27.3309593,-55.0536194
+15, Misiones,COLONIA WANDA ,,Oficina de empleo,"AV. ALEM S/N, PB(3376)",03757-470295,oecoloniawanda@trabajo.gob.ar,-25.9711971,-54.5641518
+15, Misiones,ELDORADO ,,Oficina de empleo,"DINAMARCA 75 KM 8,5, PB(3380)",03751-421600,oeeldorado@trabajo.gob.ar,-26.4104119,-54.613139
+15, Misiones,GARUPA ,,Oficina de empleo,"AV SAN MARTIN Y BELGRANO, PB(3304)",03764 300019,oegarupa@trabajo.gob.ar,-27.4838337,-55.82986289999999
+15, Misiones,JARDIN AMERICA ,,Oficina de empleo,"LIBERTAD 24, PB(3328)",03743-460101,oejardinamerica@trabajo.gob.ar,-27.0431973,-55.2270686
+15, Misiones,L. N. ALEM ,,Oficina de empleo,"SARMIENTO 251 , PB(3315)",03754-421661,oelnalem@trabajo.gob.ar,-26.9377146,-54.4342138
+15, Misiones,MOJON GRANDE ,,Unidad de empleo,"AV. SAN MARTIN S/N, PB(3315)",03754 - 497025,uemojongrande@trabajo.gob.ar,-27.7166691,-55.1666718
+15, Misiones,MONTECARLO ,,Oficina de empleo,"AV. EL LIBERTADOR 1274, PB(3384)",03751- 480835,oemontecarlo@trabajo.gob.ar,-26.5667648,-54.7660458
+15, Misiones,OBERA ,,Oficina de empleo,"CHACO Y LARREA, PB(3360)",03755- 405191,oeobera@trabajo.gob.ar,,
+15, Misiones,POSADAS ,,Oficina de empleo,"AV. ROQUE PEREZ 1651, PB(3300)",03764 434254,oeposadas@trabajo.gob.ar,-27.3621374,-55.90087459999999
+15, Misiones,PUERTO IGUAZU ,,Oficina de empleo,"ANTARTIDA ARGENTINA Y VERA PEÑALOZA S/N, PB(3370)",03757-421515,oepuertoiguazu@trabajo.gob.ar,-25.5971635,-54.578599
+15, Misiones,PUERTO LIBERTAD ,,Oficina de empleo,"AVENIDA JUAN DOMINGO PERON Y CALLE ENTRE RIOS. (S/N), PB(3374)",03757-15574954,oeplibertad@trabajo.gob.ar,-25.9195118,-54.5854912
+15, Misiones,SAN IGNACIO ,,Oficina de empleo,"SAN MARTIN 605, PB(3322)",03764 470130,oesanignacio@trabajo.gob.ar,-27.0344201,-55.2338639
+15, Misiones,SAN JAVIER ,,Oficina de empleo,"SARMIENTO Y SAN MARTIN S/N, PB(3357)",03754-483124,oesanjavier@trabajo.gob.ar,-27.8719559,-55.1389084
+15, Misiones,SAN JOSE ,,Unidad de empleo,"AV. 9 DE JULIO Y CENTENARIO, PB(3306)",03758 492069,uesanjosemis@trabajo.gob.ar,-27.7701029,-55.7804759
+15, Misiones,SAN PEDRO ,,Oficina de empleo,"MARTIN MIGUEL DE GUEMES S/N, PB(3364)",NO POSEE,pendiente,-26.6308594,-54.1131592
+15, Misiones,SAN VICENTE ,,Oficina de empleo,"ABEL SIÑUKA 68 EX CONGRESO, PB(3356)",03755-461605,oesanvicente@trabajo.gob.ar,-26.9952164,-54.4857788
+15, Misiones,SANTA ANA ,,Unidad de empleo,"SAN MARTIN Y BELGRANO , PB(3316)",03764-497014,uesantaana@trabajo.gob.ar,-27.369284,-55.5819182
+15, Misiones,SANTO PIPO ,,Oficina de empleo,"AV. SAN MARTIN S/N, 1ro (3326)",0376 154640945,oesantopipo@trabajo.gob.ar,-27.1413803,-55.4095688
+16, Neuquén,ALUMINE ,,Unidad de empleo,"CACIQUE SAIHUEQUE Y GREGLIOS ALVAREZ, PB(8345)",02942-496183,uealumine@trabajo.gob.ar,-39.2349739,-70.9225082
+16, Neuquén,CENTENARIO ,,Oficina de empleo,"SAN MARTIN E INTENDENTE PONS , PB(8309)",0299 - 4891023 int. 144,oecentenario@trabajo.gob.ar,-38.8298111,-68.12200159999999
+16, Neuquén,CHOS MALAL ,,Oficina de empleo,"BELGRANO Nro 501, PB(8353)",02948 - 422342,oechosmalal@trabajo.gob.ar,,
+16, Neuquén,JUNIN DE LOS ANDES ,,Unidad de empleo,"GINES PONTES 450, PB(8371)",02972-15471675 - 2944-911525,uejuninandes@trabajo.gob.ar,-39.944088,-71.07220459999999
+16, Neuquén,LONCOPUE ,,Unidad de empleo,"AV. RIO AGRIO Y RIOS POSSE, PB(8349)",02942-666157,ueloncopue@trabajo.gob.ar,-38.0676308,-70.6173706
+16, Neuquén,MARIANO MORENO ,,Unidad de empleo,"DOMINGO FAUSTINO SARMIENTO S/N, PB(8351)",02942-662440,uemarianomoreno@trabajo.gob.ar,-38.7325058,-70.010643
+16, Neuquén,NEUQUEN ,,Oficina de empleo,"FELIX SAN MARTIN 1430, PB(8300)",(0299) 4491200 int. 4334 y 4304,oeneuquen@trabajo.gob.ar,,
+16, Neuquén,PIC�N LEUF� ,,Unidad de empleo,"ENTRE RIOS Y LOS AROMOS, PB(8313)",0299-4048684,uepicunleufu@trabajo.gob.ar,-38.9524444,-68.0641389
+16, Neuquén,PLAZA HUINCUL ,,Oficina de empleo,"PEDRO ROTTER S/N, PB(8318)",0299-4962836,oeplazahuincul@trabajo.gob.ar,,
+16, Neuquén,RINCON DE LOS SAUCES ,,Oficina de empleo,"CATAMARCA 535, PB(8319)",0299-4886495,pendiente,-37.3865623,-68.91770939999999
+16, Neuquén,SAN MARTIN DE LOS ANDES ,,Oficina de empleo,"CAPITAN DRURY 785 , PB(8370)",02972-423151 /429274,oesmdelosandes@trabajo.gob.ar,,
+16, Neuquén,SAN PATRICIO DEL CHAÑAR ,,Unidad de empleo,"CALLE VILLA PEHUINA S/N LOTE 11 MZA 10, PB(8305)",0299-4879454,uespdelchañar@trabajo.gob.ar,-39.073889,-68.595
+16, Neuquén,VILLA LA ANGOSTURA ,,Unidad de empleo,"C BELVEDERE 557, PB depto B (Once)(8407)",02944-488403,ueangostura@trabajo.gob.ar,-40.7634201,-71.6461411
+16, Neuquén,ZAPALA ,,Oficina de empleo,"AVDA. ROCA 757, PB(8340)",02942-423493,oezapala@trabajo.gob.ar,-38.9023615,-70.06534049999999
+17, Río Negro,ALLEN ,,Oficina de empleo,"SARMIENTO 23, PB(8328)",0298 4452501/4452502 Int. 244,oeallen@trabajo.gob.ar,-38.9657593,-67.8323364
+17, Río Negro,CATRIEL ,,Oficina de empleo,"SAN MARTIN 59, PB(8307)",0299 4911333 / 0299 155560915,oecatriel@trabajo.gob.ar,-37.8814049,-67.8277054
+17, Río Negro,CHOELE CHOEL ,,Unidad de empleo,"VILLEGAS 1207, PB(8360)",0299-4781445/62,pendiente,-39.2984021,-65.6580627
+17, Río Negro,CIPOLLETTI ,,Oficina de empleo,"URQUIZA 530 , PB(8324)",02940-493132 /493007,oecipolletti@trabajo.gob.ar,,
+17, Río Negro,COMALLO ,,Unidad de empleo,"SAN MARTIN S/N, PB(8416)",0294-4492813,pendiente,-41.0339317,-70.2740479
+17, Río Negro,EL BOLSON ,,Oficina de empleo,"25 DE MAYO Y PADRE FELICIANO, PB(8430)",0294-0403326,oeelbolson@trabajo.gob.ar,-41.9677696,-71.5155106
+17, Río Negro,GENERAL CONESA ,,Unidad de empleo,"LIBERTAD S'N, PB(8503)",0294-154613121,ueconesa@trabajo.gob.ar,-40.1037178,-64.45793909999999
+17, Río Negro,GENERAL ROCA ,,Oficina de empleo,"AVENIDA SAN MARTIN 873, 1ro (8332)",02946-442615,oegeneralroca@trabajo.gob.ar,-39.0267525,-67.5751724
+17, Río Negro,INGENIERO JACOBACCI ,,Unidad de empleo,"CONRADO VILLEGAS 26, PB(8418)",02920-699311,pendiente,-41.3285255,-69.5493011
+17, Río Negro,LAMARQUE ,,Unidad de empleo,"RIVADAVIA 602, PB(8363)",02984- 436049,uelamarque@trabajo.gob.ar,-39.4196053,-65.700119
+17, Río Negro,LUIS BELTRAN ,,Unidad de empleo,"CASA DE TUCUMAN 481, PB(8361)",0294-6411798,pendiente,-39.31514,-65.763763
+17, Río Negro,RIO COLORADO ,,Oficina de empleo,"MORENO 559, PB(8138)",02946-480181,oeriocolorado@trabajo.gob.ar,,
+17, Río Negro,SAN ANTONIO OESTE ,,Oficina de empleo,"SAN MARTIN 483, PB(8520)",02931-432349,oesanantonio@trabajo.gob.ar,-40.7302609,-64.950555
+17, Río Negro,SAN CARLOS DE BARILOCHE ,,Oficina de empleo,"PERITO MORENO 1089, PB(8400)",02934-430406,oebariloche@trabajo.gob.ar,,
+17, Río Negro,SIERRA COLORADA ,,Unidad de empleo,"TEOFANO ESTABLUM 827, PB(8534)",02944-15683595,pendiente,-40.5860405,-67.75776669999999
+17, Río Negro,SIERRA GRANDE ,,Unidad de empleo,"CALLE 10 S7N, PB(8532)",02934-413498,pendiente,-41.6076927,-65.3549042
+17, Río Negro,VIEDMA ,,Oficina de empleo,"ROCA 146, PB(8500)",02920-431400,oeviedma@trabajo.gob.ar,,
+17, Río Negro,VILLA REGINA ,,Oficina de empleo,"VILLARINO 240, PB(8336)",02941-465735,oevillaregina@trabajo.gob.ar,,
+18, Salta,CIUDAD DE SALTA ,,Oficina de empleo,"ESPAÑA 277 , PB(4400)",0387-4373263,oesalta@trabajo.gob.ar,,
+18, Salta,CORONEL MOLDES ,,Oficina de empleo,"SAN MARTIN 369, PB(4421)",0387-4905327,oecmoldessalta@trabajo.gob.ar,,
+18, Salta,EL QUEBRACHAL ,,Unidad de empleo,"AV. GENERAL MANUEL BELGRANO ESQUINA INTENDENTE RAMON TORNERO, PB(4452)",03877-491006,ueelquebrachal@trabajo.gob.ar,-25.3399696,-64.0173416
+18, Salta,GENERAL GUEMES ,,Oficina de empleo,"9 DE JULIO ESQ. ISLA MALVINAS, 1ro (4430)",0387-4913337,oegeneralguemes@trabajo.gob.ar,-24.6672578,-65.0500647
+18, Salta,JOAQUIN V. GONZALEZ ,,Oficina de empleo,"AV. GUEMES ESQ. RIVADAVIA, PB(4448)",03877-15432480,oejvgonzalez@trabajo.gob.ar,-25.1159042,-64.1300335
+18, Salta,LAS LAJITAS ,,Oficina de empleo,"AVDA. MEXICO S/N, PB(4449)",03877-473428,oelaslajitas@trabajo.gob.ar,,
+18, Salta,METAN ,,Oficina de empleo,"ALEM(O) Nro 55 , PB(4440)",03876-421576,oemetan@trabajo.gob.ar,,
+18, Salta,PICHANAL ,,Oficina de empleo,"20 DE FEBRERO 465, PB(4534)",03878-493275,oepichanal@trabajo.gob.ar,-23.31667,-64.21667000000001
+18, Salta,ROSARIO DE LA FRONTERA ,,Oficina de empleo,"SARMIENTO Y FIGUEROA ALCORTA , PB(4190)",03876-483755,oerdelafrontera@trabajo.gob.ar,-25.7986507,-64.9676514
+18, Salta,ROSARIO DE LERMA ,,Oficina de empleo,"9 DE JULIO 7, PB(4405)",0387-4931115,oerdelerma@trabajo.gob.ar,,
+18, Salta,SAN CARLOS ,,Unidad de empleo,"GRAL. GÜEMES S/N. MEDIDOR: Nro302, PB(4427)",0387 155368397,uesancarlos@trabajo.gob.ar,-25.931591,-65.9459229
+18, Salta,SAN RAMON DE LA NUEVA ORAN ,,Oficina de empleo,"GÜEMES Y LAMADRID, PB(4530)",03878- 426052,oeoran@trabajo.gob.ar,,
+18, Salta,TARTAGAL ,,Oficina de empleo,"BELGRANO 730, PB(4560)",03873-426590,oetartagal@trabajo.gob.ar,,
+18, Salta,VAQUEROS ,,Unidad de empleo,"SAN MARTIN 1450, PB(4401)",0387 - 4901166,uevaqueros@trabajo.gob.ar,,
+19, San Juan,25 DE MAYO ,,Oficina de empleo,"RAMON BARRERA Y 9 DE JULIO, PB(5443)",0264-4059472,oe25demayosj@trabajo.gob.ar,-32.0226272,-67.6662231
+19, San Juan,9 DE JULIO ,,Oficina de empleo,"DIAGONAL SAN MARTIN Y DIAGONAL SARMIENTO, PB(5417)",0264 -4977022/78 Int. 118,oe9dejuliosj@trabajo.gob.ar,-31.6499996,-68.4000015
+19, San Juan,ALBARDON ,,Oficina de empleo,"MITRE 1968, PB(5419)",0264-4911180,oealbardon@trabajo.gob.ar,-31.43644,-68.515289
+19, San Juan,ANGACO ,,Oficina de empleo,"SAN MARTIN Y SEGOVIA, PB(5415)",0264-4972467,oeangaco@trabajo.gob.ar,-31.2249626,-68.0477509
+19, San Juan,CALINGASTA ,,Oficina de empleo,"RAMON DIAZ S/N, PB(5403)",02648- 492005,oecalingasta@trabajo.gob.ar,-31.3184566,-69.42536160000002
+19, San Juan,CAUCETE ,,Oficina de empleo,"GODOY CRUZ 630, PB(5442)",0264-154476334,oecaucete@trabajo.gob.ar,,
+19, San Juan,CHIMAS OESTE ,,Oficina de empleo,"REMEDIOS ESCALADA DE SAN MARTIN 101, PB(5413)",0264-4313072 int. 140/147,oechimbasoeste@trabajo.gob.ar,-31.5272732,-68.5214081
+19, San Juan,CHIMBAS ,,Oficina de empleo,"RUTA 40 Y RODRIGUEZ, PB(5413)",0264-4315449,oechimbas@trabajo.gob.ar,-31.4965964,-68.5317615
+19, San Juan,CIUDAD DE SAN JUAN ,,Oficina de empleo,"RIVADAVIA 664 ESTE, PB(5400)",0264-4203877,oesanjuan@trabajo.gob.ar,-31.5272732,-68.5214081
+19, San Juan,IGLESIA ,,Oficina de empleo,"BARRIO FEDERICO CANTONI CASA 20, PB(5465)",0264-7493200,oeiglesia@trabajo.gob.ar,-30.39916989999999,-69.2166214
+19, San Juan,JACHAL ,,Oficina de empleo,"SAN MARTIN 662, PB(5460)",0264-7420003,oejachal@trabajo.gob.ar,-30.2414761,-68.7466965
+19, San Juan,POCITO ,,Oficina de empleo,"ROBERTO VIDART 1073, PB(5427)",0264-4921818 In 126,oepocito@trabajo.gob.ar,-31.6833305,-68.5833511
+19, San Juan,RAWSON ,,Oficina de empleo,"REPUBLICA DEL LIBANO 611 (OESTE), PB(5425)",0264-4283629,oerawsonsj@trabajo.gob.ar,-31.666657,-68.45316989999999
+19, San Juan,RIVADAVIA ,,Oficina de empleo,"AV. LIBERTADOR 5141 OESTE, PB(5400)",0264-4334415,oerivadaviasj@trabajo.gob.ar,-31.5294819,-68.59405579999999
+19, San Juan,SAN MARTIN ,,Oficina de empleo,"MODULOS COMERCIALES BARRIO PIE DE PALO, PB(5439)",0264-4971139,oesanmartinsj@trabajo.gob.ar,-31.5378744,-68.0954459
+19, San Juan,SANTA LUCIA ,,Oficina de empleo,"HIPOLITO YRIGOYEN 2171, PB(5411)",0264-4250618,oesantalucia@trabajo.gob.ar,,
+19, San Juan,SARMIENTO ,,Oficina de empleo,"MARTINEZ LOPEZ 67- (NORTE) V MEDIA AGUA, PB(5435)",0264-4941003 interno 227,oesarmiento@trabajo.gob.ar,-31.9826679,-68.4288483
+19, San Juan,ULLUM ,,Oficina de empleo,"VALENTIN RUIZ S/N, PB(5409)",0264-4943100 int 303,oeullum@trabajo.gob.ar,-31.5272732,-68.5214081
+19, San Juan,VALLE FERTIL ,,Oficina de empleo,"GENERAL ACHA 1052, PB(5449)",02646 - 420192,oevallefertil@trabajo.gob.ar,-30.9123768,-67.2847875
+19, San Juan,ZONDA ,,Oficina de empleo,"RUTA PROVINCIAL 12 KM 24, PB(5401)",0264-4945045,oezonda@trabajo.gob.ar,,
+20, San Luis,SAN LUIS ,,Oficina de empleo,"BOLIVAR 670, PB(5700)",02652-4447954,oesanluis@trabajo.gob.ar,,
+21, Santa Cruz,CALETA OLIVIA ,,Oficina de empleo,"EVA PERON Y PASAJE DURAZNILLO, PB(9011)",0297-4850996,oecaletaolivia@trabajo.gob.ar,,
+21, Santa Cruz,PICO TRUNCADO ,,Oficina de empleo,"VIAMONTE Nro 863, PB(9015)",0297- 4990638,oepicotruncado@trabajo.gob.ar,-46.7990112,-67.9669189
+21, Santa Cruz,PUERTO DESEADO ,,Oficina de empleo,"SAN MARTIN 1137, PB(9050)",0297-4871359 Int. 16,oepdeseado@trabajo.gob.ar,-47.7491608,-65.8880386
+21, Santa Cruz,PUERTO SAN JULIAN ,,Oficina de empleo,"SAN MARTIN 446, PB(9310)",02962-452353 int 131,oesanjulian@trabajo.gob.ar,,
+22, Santa Fe,ALEJANDRA ,,Unidad de empleo,"THOMAS MOORE 1556, PB(3051)",03471-461204/461316/461326/461592,uealejandra@trabajo.gob.ar,-29.9098778,-59.8286591
+22, Santa Fe,ARMSTRONG ,,Oficina de empleo,"SAN MARTIN 1565, PB(2508)",03468-498039/ 498301,oearmstrong@trabajo.gob.ar,-32.781292,-61.6024895
+22, Santa Fe,AVELLANEDA ,,Oficina de empleo,"CALLE 21 2300, PB(3561)",03471-422008 int. 218,oeavellanedasantafe@trabajo.gob.ar,-29.116415,-59.65840909999999
+22, Santa Fe,CAFFERATA ,,Unidad de empleo,"SAN MARTIN 697, PB(2643)",0341-4910357,uecafferata@trabajo.gob.ar,,
+22, Santa Fe,CALCHAQUI ,,Oficina de empleo,"MITRE 240, PB(3050)",0341-4943053,oecalchaqui@trabajo.gob.ar,-29.8899651,-60.2862091
+22, Santa Fe,CAÑADA DE GOMEZ ,,Oficina de empleo,"SARMIENTO 153, PB(2500)",03465-490388/106,oecañadadegomez@trabajo.gob.ar,,
+22, Santa Fe,CAÑADA ROSQUIN ,,Oficina de empleo,"RIVADAVIA 593, PB(2454)",03464-422211/12 int 122,oecrosquin@trabajo.gob.ar,-31.6323891,-60.6994591
+22, Santa Fe,CAPITAN BERMUDEZ ,,Oficina de empleo,"ECUADOR 16, PB(2154)",03465-422551,oecbermudez@trabajo.gob.ar,,
+22, Santa Fe,CARCARAÑA ,,Oficina de empleo,"AVDA BELGRANO Y ROTONDA CAMPAÑA CENTENARIO, PB(2138)",03414-918066,oecarcaraña@trabajo.gob.ar,-31.6323891,-60.6994591
+22, Santa Fe,CARRERAS ,,Unidad de empleo,"GARIBALDI 721, PB(2729)",0341-4931164,uecarreras@trabajo.gob.ar,-33.5987053,-61.3094177
+22, Santa Fe,CASILDA ,,Oficina de empleo,"BV. OVIDIO LAGOS E YRIGOYEN (TERMINAL DE OMNIBUS), PB(2170)",03402-490262,oecasilda@trabajo.gob.ar,-33.0496216,-61.1663818
+22, Santa Fe,CERES ,,Oficina de empleo,"AV. VICENTE CASARES 98, PB(2340)",0341-4718526,oeceres@trabajo.gob.ar,-29.8828106,-61.9491615
+22, Santa Fe,CORONDA ,,Oficina de empleo,"SAN GERONIMO Y RIVADAVIA, PB(2240)",03471-15627235,oecoronda@trabajo.gob.ar,-31.9728813,-60.9193039
+22, Santa Fe,EL ARAZA ,,Unidad de empleo,"PBTO. ANTONIO PERGOLESI Nro 960 , PB(3563)",03471 451001 (127),ueelaraza@trabajo.gob.ar,-31.6323891,-60.6994591
+22, Santa Fe,EL TREBOL ,,Oficina de empleo,"AV. LIBERTAD 78, PB(2535)",03400-490038/490148,oeeltrebol@trabajo.gob.ar,-32.1980158,-61.70194999999999
+22, Santa Fe,ESPERANZA ,,Oficina de empleo,"AARON CASTELLANOS 1543 , PB(3080)",0341-4951200,oeesperanza@trabajo.gob.ar,,
+22, Santa Fe,FIRMAT ,,Oficina de empleo,"SAN MARTIN Y CORRIENTES, PB(2630)",03476-422646,oefirmat@trabajo.gob.ar,-33.4555244,-61.48825069999999
+22, Santa Fe,FORTIN OLMOS ,,Unidad de empleo,"JUAN DOMINGO PERON E HIPOLITO IRIGOYEN, PB(3553)",0341-4962151 interno 3,uefortinolmos@trabajo.gob.ar,-31.6323891,-60.6994591
+22, Santa Fe,FRAY LUIS BELTRAN ,,Oficina de empleo,"SAN MARTIN 1175, PB(2156)",0341-4802332,oebeltran@trabajo.gob.ar,,
+22, Santa Fe,FRONTERA ,,Oficina de empleo,"CALLE 70 NRO 45, PB(2438)",03382-428460,oefrontera@trabajo.gob.ar,,
+22, Santa Fe,FUNES ,,Oficina de empleo,"TOMAS DE LA TORRE Y PELLEGRINI , PB(2132)",03476 - 436176,oefunes@trabajo.gob.ar,-32.9184418,-60.81003570000001
+22, Santa Fe,GALVEZ ,,Oficina de empleo,"PRESIDENTE PERON 750, PB(2252)",03462-408704 - 408705,oegalvez@trabajo.gob.ar,,
+22, Santa Fe,GENERAL LAGOS ,,Unidad de empleo,"SAN MARTIN 361, PB(2127)",03462-450201,ueglagos@trabajo.gob.ar,-33.1108208,-60.5577469
+22, Santa Fe,GRANADERO BAIGORRIA ,,Oficina de empleo,"BUENOS AIRES 1178 , PB(2152)",03400-471876,oebaigorria@trabajo.gob.ar,,
+22, Santa Fe,HELVECIA ,,Oficina de empleo,"DR. ROMANG, PB(3003)",0341-5186539,oehelvecia@trabajo.gob.ar,-31.0995502,-60.08422849999999
+22, Santa Fe,LA GALLARETA ,,Unidad de empleo,"RIVADAVIA Y BELGRANO , PB(3057)",03405-492199 / 492107 / 492220,uelagallareta@trabajo.gob.ar,-29.5832939,-60.378334
+22, Santa Fe,LAGUNA PAIVA ,,Oficina de empleo,"SAN MARTIN 1173, PB(3020)",03482-481079. Interno 131,oelagunapaiva@trabajo.gob.ar,-31.305975,-60.6618729
+22, Santa Fe,LANTERI ,,Unidad de empleo,"SARMIENTO S/N , PB(3575)",03483-471097,uelanteri@trabajo.gob.ar,-28.8408051,-59.6358948
+22, Santa Fe,LAS PAREJAS ,,Oficina de empleo,"CALLE 14 Nro 761, PB(2505)",03401-471612,oelasparejas@trabajo.gob.ar,-32.6805573,-61.52044679999999
+22, Santa Fe,LAS ROSAS ,,Oficina de empleo,"SAN MARTIN 483, PB(2520)",03491- 423021,oelasrosas@trabajo.gob.ar,,
+22, Santa Fe,LAS TOSCAS ,,Oficina de empleo,"CALLE 12 901, PB(3586)",0342-4910798,oelastoscas@trabajo.gob.ar,-28.3516788,-59.2599144
+22, Santa Fe,MALABRIGO ,,Oficina de empleo,"SAN MARTIN ESQUINA FEDERICO SIGUEL, PB(3572)",03482-490100,oemalabrigo@trabajo.gob.ar,-29.3471622,-59.96799849999999
+22, Santa Fe,PAVON ,,Unidad de empleo,"SANTA FE 206, PB(2918)",03401-421810,pendiente,,
+22, Santa Fe,PEREZ ,,Oficina de empleo,"MEDRANO 1469, PB(2121)",03496-420009 Int. 135,oeperez@trabajo.gob.ar,-32.9977226,-60.76615520000001
+22, Santa Fe,PUERTO GENERAL SAN MARTIN ,,Oficina de empleo,"CAYETANO NERBUTTI Y RIO PARANA, PB(2208)",03483-492132,oepgsanmartin@trabajo.gob.ar,-32.716671,-60.73332980000001
+22, Santa Fe,RAFAELA ,,Oficina de empleo,"LAVALLE 1021, PB(2300)",03564-423333,oerafaela@trabajo.gob.ar,,
+22, Santa Fe,RECONQUISTA ,,Oficina de empleo,"PATRICIO DIEZ Nro 716, PB(3560)",03404 - 485005/ 03404 - 481130,oereconquista@trabajo.gob.ar,-29.1445715,-59.641884
+22, Santa Fe,RECREO ,,Oficina de empleo,"AVDA MITRE 1211, PB(3018)",03405-470181,oerecreosf@trabajo.gob.ar,-31.4908772,-60.7356773
+22, Santa Fe,ROLDAN ,,Oficina de empleo,"RIOJA 642 , PB(2134)",03483-496095,oeroldan@trabajo.gob.ar,,
+22, Santa Fe,ROMANG ,,Oficina de empleo,"SIMON DE IRIONDO 751, PB(3555)",0342-4941908,oeromang@trabajo.gob.ar,-29.49964899999999,-59.75234990000001
+22, Santa Fe,ROSARIO ,,Oficina de empleo,"BUENOS AIRES 856, 4to (2000)",03482-474005,oerosario@trabajo.gob.ar,-32.9507408,-60.66650010000001
+22, Santa Fe,RUFINO ,,Oficina de empleo,"SANTA FE 159, PB(6100)",03482-492279,oerufino@trabajo.gob.ar,-34.2652944,-62.70871639999999
+22, Santa Fe,SAN GENARO ,,Oficina de empleo,"BELGRANO Y ENTRE RIOS, PB(2147)",03482-454021,oesangenaro@trabajo.gob.ar,-32.3698578,-61.35440059999999
+22, Santa Fe,SAN GERONIMO NORTE ,,Oficina de empleo,"SAN MARTIN 560, PB(3011)",03492-435565 / 570037,oesangeronimon@trabajo.gob.ar,,
+22, Santa Fe,SAN JOSE DEL RINCON ,,Unidad de empleo,"SAN MARTIN 1285, PB(3001)",03482-472018,uesanjosedelrincon@trabajo.gob.ar,,
+22, Santa Fe,SAN JUSTO ,,Oficina de empleo,"AV. IRIONDO 2520, PB(3040)",0342-4960018,oesanjusto@trabajo.gob.ar,-30.7894382,-60.59102249999999
+22, Santa Fe,SAN LORENZO ,,Oficina de empleo,"SARGENTO CABRAL 737, PB(2200)",03482-496300,oesanlorenzo@trabajo.gob.ar,,
+22, Santa Fe,SANTA FE ,,Oficina de empleo,"LAS HERAS 2751, PB(3000)",030401-493888,oesantafe@trabajo.gob.ar,,
+22, Santa Fe,SANTA ROSA DE CALCHINES ,,Unidad de empleo,"FRAY ANTONIO ROSSI S/N, PB(3001)",0342-4806810,uecomunacalchines@trabajo.gob.ar,-31.416667,-60.333333
+22, Santa Fe,SANTO TOME ,,Oficina de empleo,"MACIAS 1933, PB(3016)",0342-4848050,oesantotomesf@trabajo.gob.ar,,
+22, Santa Fe,SAUCE VIEJO ,,Oficina de empleo,"9 DE JULIO 2302, PB(3017)",0342-4571644,oesauceviejo@trabajo.gob.ar,-31.7704716,-60.8354721
+22, Santa Fe,SUNCHALES ,,Oficina de empleo,"SAN JUAN 2149 AREA INDUSTRUIAL, PB(2322)",0342-4578418,oesunchales@trabajo.gob.ar,-30.9429569,-61.5598907
+22, Santa Fe,VENADO TUERTO ,,Oficina de empleo,"CASTELLI Y ALVEAR, PB(2600)",0342-4908170,oevenadotuerto@trabajo.gob.ar,,
+22, Santa Fe,VILLA CAÑAS ,,Oficina de empleo,"CALLE 53 456, PB(2607)",0342-4753372,oevillacañas@trabajo.gob.ar,,
+22, Santa Fe,VILLA CONSTITUCION ,,Oficina de empleo,"SARMIENTO 808, PB(2919)",0342-4951084 / 4955068,oevconstitucion@trabajo.gob.ar,,
+22, Santa Fe,VILLA GOBERNADOR GALVEZ ,,Oficina de empleo,"JUAN DOMINGO PERON 1549, PB(2124)",03493-425646,oevggalvez@trabajo.gob.ar,,
+22, Santa Fe,VILLA GUILLERMINA ,,Unidad de empleo,"GOBERNADOR MENCHACA ESQUINA ROSARIO, PB(3589)",03482-475653,uevguillermina@trabajo.gob.ar,-28.2435055,-59.4529114
+22, Santa Fe,VILLA OCAMPO ,,Oficina de empleo,"PADRE ANGEL TIBALDO 1578, PB(3580)",03482-466300 int (104),oevillaocampo@trabajo.gob.ar,-28.4872684,-59.35360719999999
+23, Santiago Del Estero,AÑATUYA ,,Oficina de empleo,"25 DE MAYO 347, PB()",038444-42202,oeanatuya@trabajo.gob.ar,-28.46558,-62.83356089999999
+23, Santiago Del Estero,CLODOMIRA ,,Unidad de empleo,"MITRE S/N, PB(4338)",0385-4921505,ueclodomira@trabajo.gob.ar,-27.5807037,-64.134697
+23, Santiago Del Estero,FERNANDEZ ,,Oficina de empleo,"CALLE 9 DE JULIO 85, PB(4322)",0385-4911260,oefernandez@trabajo.gob.ar,-27.9225349,-63.89363479999999
+23, Santiago Del Estero,FRIAS ,,Oficina de empleo,"RIVADAVIA Nro 142, 3ro (4230)",03854-423881,oefrias@trabajo.gob.ar,,
+23, Santiago Del Estero,INGENIERO FORRES ,,Oficina de empleo,"FCO. DE AGUIRRE Y 8 DE SEPTIEMBRE, PB(4312)",0385-4902015,oeforres@trabajo.gob.ar,-27.874651,-63.9792519
+23, Santiago Del Estero,LA BANDA ,,Oficina de empleo,"ALEM 154, PB(4300)",03854-271500,oelabanda@trabajo.gob.ar,,
+23, Santiago Del Estero,NUEVA ESPERANZA ,,Unidad de empleo,"AVENIDA FRANCISCO DE AGUIRRE 154, PB(4197)",03861-421087,nuevaesperanza@trabajo.gob.ar,-26.1996498,-64.2370605
+23, Santiago Del Estero,SAN PEDRO ,,Unidad de empleo,"INDEPENDENCIA PROLONGACION S/N RUTA PROV. 28, PB(4200)",NO POSEE,pendiente,-28.186577,-63.580611
+23, Santiago Del Estero,SANTIAGO DEL ESTERO ,,Oficina de empleo,"ENTRE RIOS 258, 3ro (4200)",03854-504480,oesdelestero@trabajo.gob.ar,-27.78442,-64.26728059999999
+23, Santiago Del Estero,TINTINA ,,Unidad de empleo,"SAN MARTIN Y FRAY MAMERTO ESQUIU, PB(3743)",03846-421371/297/284,pendiente,-27.0276585,-62.7049179
+23, Santiago Del Estero,VILLA OJO DE AGUA ,,Oficina de empleo,"SARMIENTO 175, PB(5250)",03856-421525,oeojodeagua@trabajo.gob.ar,-29.5019188,-63.69423289999999
+24, Tierra Del Fuego,RIO GRANDE ,,Oficina de empleo,"SAN MARTIN 619, PB(9420)",02964-420394,oeriogrande@trabajo.gob.ar,,
+24, Tierra Del Fuego,TOLHUIN ,,Unidad de empleo,"CALLE MINKIOL S/N, PB(9420)",02901-492380,uetolhuin@trabajo.gob.ar,-54.50792690000001,-67.1923676
+24, Tierra Del Fuego,USHUAIA ,,Oficina de empleo,"TEKENIKA 487, PB(9410)",02901-431993,oeushuaia@trabajo.gob.ar,,
+25, Tucumán,AGUILARES ,,Oficina de empleo,"JUAN BAUTISTA ALBERDI 147, PB(4152)",03865-481785,oeaguilares@trabajo.gob.ar,-27.4328594,-65.61586
+25, Tucumán,ALDERETES ,,Oficina de empleo,"PJE. BLAS PARERA Y CASEROS, PB(4178)",0381-4946480,oealderetes@trabajo.gob.ar,-26.8166695,-65.1333313
+25, Tucumán,AMAICHA DEL VALLE ,,Unidad de empleo,"ERNESTO PADILLA S/N, FRENTE A LA PLAZA PRINCIPAL, PB(4137)",0381-154917823,ueamaichadelvalle@trabajo.gob.ar,-26.5863342,-65.9180298
+25, Tucumán,BANDA DEL RIO SALI ,,Oficina de empleo,"MONSEÑOR DIAZ 876, PB(4109)",0381-4264443,oebandariosali@trabajo.gob.ar,,
+25, Tucumán,BELLA VISTA ,,Oficina de empleo,"GARCIA FERNANDEZ 190, PB(4168)",0381-4821943 / 3816252738,oebellavistatuc@trabajo.gob.ar,-27.0346107,-65.2999878
+25, Tucumán,BURRUYACU ,,Oficina de empleo,"ISLAS MALVINAS 521, PB(4119)",03894-421031,oeburruyacu@trabajo.gob.ar,-26.499424,-64.7419434
+25, Tucumán,CAPITAL ,,Oficina de empleo,"JUAN B JUSTO 951, PB(4000)",0381-4228421,oetucuman@trabajo.gob.ar,-26.9468463,-65.2857082
+25, Tucumán,CEVIL REDONDO ,,Unidad de empleo,"JORGE LUIS BORGES 150, PB(4105)",381-155855292,uecevilredondo@trabajo.gob.ar,-26.7833309,-65.2833405
+25, Tucumán,CHOROMORO ,,Unidad de empleo,"JUAN MALENSEK S/N - ORGANISMO COMUNAL, PB(4122)",03862-427017/ 0381156876193,uechoromoro@trabajo.gob.ar,-26.3999996,-65.3333511
+25, Tucumán,COLALAO DEL VALLE ,,Unidad de empleo,"9 DE JULIO S / , PB(4141)",0381-4654582/ 0381-155093627,uecolalaodelvalle@trabajo.gob.ar,-26.3573151,-65.95309449999999
+25, Tucumán,COLOMBRES ,,Unidad de empleo,"AV. SAN MARTIN S/N, PB(4111)",0381-155031339,uecolombres@trabajo.gob.ar,-26.8999996,-65.0999985
+25, Tucumán,CONCEPCION ,,Oficina de empleo,"DOMINGO SARMIENTO ESQUINA MARIANO MORENO, PB(4146)",03865-505257,oeconcepcion@trabajo.gob.ar,-27.3415661,-65.59466549999999
+25, Tucumán,DELFIN GALLO ,,Unidad de empleo,"BARRIO EL BOSQUE 1ro CUADRA, PB(4117)",(0381) 155122599-154199833,uedelfingallo@trabajo.gob.ar,-26.8500004,-65.0999985
+25, Tucumán,EL CHAÑAR ,,Unidad de empleo,"25 DE MAYO Y SARMIENTO S/N, PB(4117)",0381-5058202,ueelchanar@trabajo.gob.ar,-26.7586308,-65.06788639999999
+25, Tucumán,EL MANANTIAL ,,Oficina de empleo,"BARRIO SOBERANIA NACIONAL RUTA 301 Y CRISTO REY, PB(4105)",0381-4391568,comunaelmanantial-ue@hotmail.com,-26.85,-65.283333
+25, Tucumán,EL MOLLAR ,,Unidad de empleo,"21 DE SEPTIEMBRE S/N - FRENTE A LA PLAZA, PB(4115)",0381-155717627,ueelmollar@trabajo.gob.ar,-26.9500008,-65.7166672
+25, Tucumán,ESCABA ,,Unidad de empleo,"RUTA PROVINCIAL 308 KM 23, PB(4158)",03865472999/ 03865-15412488,ueescaba@trabajo.gob.ar,-26.9468463,-65.2857082
+25, Tucumán,FAMAILLA ,,Oficina de empleo,"SARMIENTO 235, PB(4132)",03863 -462032,oefamailla@trabajo.gob.ar,-27.0560551,-65.40216830000001
+25, Tucumán,GRANEROS ,,Oficina de empleo,"AVELLANEDA 184, PB(4159)",03891-491231,oegraneros@trabajo.gob.ar,-27.6498394,-65.4400711
+25, Tucumán,JUAN BAUTISTA ALBERDI ,,Oficina de empleo,"LAPRIDA Nro 668, PB(4158)",03865-472870,oejbalberdi@trabajo.gob.ar,-27.5852909,-65.619812
+25, Tucumán,LA COCHA ,,Oficina de empleo,"SAN MARTIN NORTE 55, PB(4162)",03865 - 496506,oelacocha@trabajo.gob.ar,-27.7717667,-65.58679959999999
+25, Tucumán,LA FLORIDA Y LUISIANA ,,Unidad de empleo,"HIPOLITO IRIGOYEN S/N, PB(4144)",0381-4922165,uelafloridayluisiana@trabajo.gob.ar,-27.2333298,-65.5666809
+25, Tucumán,LA RAMADA Y LA CRUZ ,,Unidad de empleo,"24 DE SEPTIEMBRE S/N, PB(4119)",0381-4468804,uelaramadaylacruz@trabajo.gob.ar,-26.6000004,-64.9000015
+25, Tucumán,LA TRINIDAD ,,Unidad de empleo,"LAS HERAS Y AV. LA FUENTE, PB(4151)",03865-15692696,uelatrinidad@trabajo.gob.ar,-27.3999004,-65.5169678
+25, Tucumán,LAMADRID ,,Unidad de empleo,"25 DE MAYO S/N FTE. PLAZA URQUIZA, PB(4176)",0381 - 4185482,uelamadrid@trabajo.gob.ar,-26.9468463,-65.2857082
+25, Tucumán,LAS TALITAS ,,Oficina de empleo,"CALLE 29 Y 10 - VILLA MARIANO MORENO , PB(4101)",03814-373405,oelastalitas@trabajo.gob.ar,-26.775833,-65.20055599999999
+25, Tucumán,LEON ROUGES ,,Unidad de empleo,"24 DE SEPTIEMBRE Y 28 DE MAYO, PB(4143)",03863 495151,ueleonrouges@trabajo.gob.ar,-27.2158794,-65.53344729999999
+25, Tucumán,LOS NOGALES ,,Unidad de empleo,"RUTA NACIONAL 9 KM 1308, PB(4101)",03814921254,uelosnogales@trabajo.gob.ar,-26.9468463,-65.2857082
+25, Tucumán,LOS RALOS ,,Unidad de empleo,"GUEMES Y PERITO MORENO, PB(4182)",03814712810,uelosralos@trabajo.gob.ar,-26.8862896,-65.0061111
+25, Tucumán,LULES ,,Oficina de empleo,"ALTE. BROWN 351, PB(4128)",0381-4810068,oelules@trabajo.gob.ar,-26.9257507,-65.3380356
+25, Tucumán,MANUELA PEDRAZA ,,Unidad de empleo,"RUTA NACIONAL 154, 1204, PB(4166)",0381-155267063,uemanuelapedraza@trabajo.gob.ar,-27.2333298,-65.3499985
+25, Tucumán,MONTEROS ,,Oficina de empleo,"25 DE MAYO 263, PB(4142)",03863-428853,oemonteros@trabajo.gob.ar,-27.1639576,-65.4963303
+25, Tucumán,QUILMES Y LOS SUELDOS ,,Unidad de empleo,"ECUADOR 200, PB(4141)",03815083685,uequilmesylossueldos@trabajo.gob.ar,-26.9468463,-65.2857082
+25, Tucumán,RANCHILLOS ,,Oficina de empleo,"AVDA. SAN MARTIN 64, PB(4178)",03869-421498,oeranchillos@trabajo.gob.ar,-26.9494591,-65.0500488
+25, Tucumán,SAN PABLO Y VILLA NOGUES ,,Unidad de empleo,"AV. SAN MARTIN 4, PB(4128)",03815891364,uesanpabloynogues@trabajo.gob.ar,-26.9468463,-65.2857082
+25, Tucumán,SAN PEDRO DE COLALAO ,,Unidad de empleo,"9 DE JULIO Y LAS HERAS, PB(4124)",0381-155750090,uespdecolalao@trabajo.gob.ar,-26.2333298,-65.48332979999999
+25, Tucumán,SANTA ANA ,,Oficina de empleo,"AV URQUIZA S/N, Y CARLOS PELLEGRINI, PB(4155)",03865-493000,oesantana@trabajo.gob.ar,-27.46994,-65.68244899999999
+25, Tucumán,SANTA LUCIA ,,Unidad de empleo,"AV. LIBERTADOR Y MARCOS AVELLANEDA, PB(4119)",0381-3383323,uecomunasantalucia@trabajo.gob.ar,-26.9468463,-65.2857082
+25, Tucumán,SIMOCA ,,Oficina de empleo,"25 DE MAYO 174, PB(4172)",03863-481995,oesimoca@trabajo.gob.ar,-27.2639046,-65.35444199999999
+25, Tucumán,TAFI DEL VALLE ,,Oficina de empleo,"PEATONAL LOS FAROLES S/N, PA(4137)",03867-421880,oetafidelvalle@trabajo.gob.ar,-26.8458195,-65.700119
+25, Tucumán,TAFI VIEJO ,,Oficina de empleo,"SAN MARTIN 130, PB(4103)",0381- 4616788 - 3075718,oetafiviejo@trabajo.gob.ar,,
+25, Tucumán,TRANCAS ,,Oficina de empleo,"JUAN URBANC 161, PB(4124)",03862-421974,oetrancas@trabajo.gob.ar,-26.2161293,-65.2835083
+25, Tucumán,YERBA BUENA ,,Oficina de empleo,"AV. ACONQUIJA 2021 GALERIA CENTRAL LOCAL 5, PB(4107)",03814-258022,oeyerbabuena@trabajo.gob.ar,-26.8166695,-65.3166809
+1,Buenos Aires,AVELLANEDA ,Sede VILLA CORINA,Oficina de empleo (Sede),"CASACUBERTA 3955, PB, (1870)",02202439746 / 02202434536,oeavellaneda@trabajo.gob.ar,-34.6610756,-58.3669739
+1,Buenos Aires,AYACUCHO ,Sede VILLA TRANQUILA,Oficina de empleo (Sede),"ESTEVEZ 1100, PB, (1870)",4654-2715,oeavellaneda@trabajo.gob.ar,-37.1502686,-58.4829712
+1,Buenos Aires,LA PLATA ,Agencia provicial LA PLATA - MTEySS,Oficina de empleo (Sede),"CALLE 53 500 esquina 6, PB, (1900)",4275-7730 42756880,oeregionallaplata@trabajo.gob.ar,-34.92125,-57.95433329999999
+1,Buenos Aires,QUILMES ,Sede QUILMES IAPI,Oficina de empleo (Sede),"CALLE 844 2240 - SAN FRANCISCO SOLANO, PB, (1879)",4734-7752/9200 (280),oequilmesiap@trabajo.gob.ar,-34.7260246,-58.25435640000001
+4,Chaco,RESISTENCIA ,Agencia provicial RESISTENCIA,Oficina de empleo (Sede),"MARCELO T. DE ALVEAR Y AV. SARMIENTO, PB, (3500)",03624-452953- int. 101,oeagenciapovchaco@trabajo.gob.ar,-26.5857656,-60.9540073
+13,La Rioja,LA RIOJA ,Agencia provicial SUBSECRETRIA DE EMPLEO DE LA RIOJA,Oficina de empleo (Sede),"AV. ORTIZ DE OCAMPO 1700 - SECTOR ESTE - ACCESO 7, PB, (5300)",0380-4453726 // 0380-4453741,pendiente,-29.4128001,-66.8559803
+19,San Juan,CIUDAD DE SAN JUAN ,Agencia provicial AGENCIA PROVINCIAL SAN JUAN,Oficina de empleo (Sede),"AV. ESPAÑA (SUR) 50, PB, (5400)",0264-4306032,oeagenciaprovincialsj@trabajo.gob.ar,-31.5272732,-68.5214081
+22,Santa Fe,SANTA FE ,Sede Mitre,Oficina de empleo (Sede),"GENERAL LOPEZ 3687, PB, (3000)",03498-425500 interno 141,oesantafe@trabajo.gob.ar,-31.6323891,-60.6994591
+22,Santa Fe,SANTA ROSA DE CALCHINES ,Sede Prado Español,Unidad de empleo (Sede),"GENERAL PAZ Y HERNANDARIAS, PB, (3000)",0342-4571835,oesantafe@trabajo.gob.ar,-31.416667,-60.333333
+22,Santa Fe,SANTO TOME ,Sede SANTA FE CIC,Oficina de empleo (Sede),"FACUNDO ZUVIRIA 8020, PB, (3000)",03404-460025 - 460251,oesantafe@trabajo.gob.ar,-31.66534039999999,-60.7653809
+22,Santa Fe,SAUCE VIEJO ,Sede SANTA FE Delegacion Noroeste,Oficina de empleo (Sede),"TENIENTE LOZA 6970, PB, (3000)",0342-4971706,oesantafe@trabajo.gob.ar,-31.7704716,-60.8354721

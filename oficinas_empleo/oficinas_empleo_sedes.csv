@@ -1,0 +1,12 @@
+provincia_id,provincia,municipio,sede,tipo,direccion,telefono,email
+1,Buenos Aires,AVELLANEDA (OE),Sede VILLA CORINA,Oficina de empleo (Sede),"CASACUBERTA 3955, PB, (1870)",02202439746 / 02202434536,oeavellaneda@trabajo.gob.ar
+1,Buenos Aires,AYACUCHO (OE),Sede VILLA TRANQUILA,Oficina de empleo (Sede),"ESTEVEZ 1100, PB, (1870)",4654-2715,oeavellaneda@trabajo.gob.ar
+1,Buenos Aires,LA PLATA (OE),Agencia provicial LA PLATA - MTEySS,Oficina de empleo (Sede),"CALLE 53 500 esquina 6, PB, (1900)",4275-7730 42756880,oeregionallaplata@trabajo.gob.ar
+1,Buenos Aires,QUILMES (OE),Sede QUILMES IAPI,Oficina de empleo (Sede),"CALLE 844 2240 - SAN FRANCISCO SOLANO, PB, (1879)",4734-7752/9200 (280),oequilmesiap@trabajo.gob.ar
+4,Chaco,RESISTENCIA (OE),Agencia provicial RESISTENCIA,Oficina de empleo (Sede),"MARCELO T. DE ALVEAR Y AV. SARMIENTO, PB, (3500)",03624-452953- int. 101,oeagenciapovchaco@trabajo.gob.ar
+13,La Rioja,LA RIOJA (OE),Agencia provicial SUBSECRETRIA DE EMPLEO DE LA RIOJA,Oficina de empleo (Sede),"�AV. ORTIZ DE OCAMPO 1700 - SECTOR ESTE - ACCESO 7, PB, (5300)",0380-4453726 // 0380-4453741,pendiente
+19,San Juan,CIUDAD DE SAN JUAN (OE),Agencia provicial AGENCIA PROVINCIAL SAN JUAN,Oficina de empleo (Sede),"AV. ESPA�A (SUR) 50, PB, (5400)",0264-4306032,oeagenciaprovincialsj@trabajo.gob.ar
+22,Santa Fe,SANTA FE (OE),Sede Mitre,Oficina de empleo (Sede),"GENERAL LOPEZ 3687, PB, (3000)",03498-425500 interno 141,oesantafe@trabajo.gob.ar
+22,Santa Fe,SANTA ROSA DE CALCHINES (UE),Sede Prado Español,Unidad de empleo (Sede),"GENERAL PAZ Y HERNANDARIAS, PB, (3000)",0342-4571835,oesantafe@trabajo.gob.ar
+22,Santa Fe,SANTO TOME (OE),Sede SANTA FE CIC,Oficina de empleo (Sede),"FACUNDO ZUVIRIA 8020, PB, (3000)",03404-460025 - 460251,oesantafe@trabajo.gob.ar
+22,Santa Fe,SAUCE VIEJO (OE),Sede SANTA FE Delegacion Noroeste,Oficina de empleo (Sede),"TENIENTE LOZA 6970, PB, (3000)",0342-4971706,oesantafe@trabajo.gob.ar
